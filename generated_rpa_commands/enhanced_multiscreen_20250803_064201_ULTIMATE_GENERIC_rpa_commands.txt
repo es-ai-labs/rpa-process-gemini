@@ -1,0 +1,76 @@
+# Ultimate Generic Murex RPA Commands Generated: 2025-08-03 10:14:22.872856
+# Source Video: enhanced_multiscreen_20250803_064201.mp4
+# Source JSON: enhanced_multiscreen_interactions_20250803_064519.json
+# Processing Mode: Universal Workflow Patterns
+# Application: Murex (Any Module/Workflow)
+# Reusable For: Trading, Bonds, FX, Risk, Config, Reports, etc.
+
+Here's a refined set of RPA commands describing the user's mechanical interaction pattern with the Murex interface, designed for universal application across any Murex workflow or module.  The commands focus on *how* the user interacts, avoiding assumptions about the specific business process.
+
+**I. Universal Login Pattern:**
+
+1. **Command:** `Murex_Login(username, password, functionalArea)`
+2. **Description:**  Provides the RPA bot with the username and password.  The `functionalArea` parameter (e.g., "Bonds", "Trading", "Configuration") is used to guide initial navigation after successful login.  The command handles the login form interaction, including typing credentials, clicking the login button, and handling any subsequent authentication steps (e.g., multi-factor authentication).  It then navigates to the specified `functionalArea` using the Murex menu structure.  Error handling is included for incorrect credentials or network issues.
+
+**II. Generic Navigation Pattern:**
+
+1. **Command:** `Murex_Navigate(menuPath)`
+2. **Description:** Takes a string `menuPath` representing the hierarchical path through the Murex menu system (e.g., "Bonds > Bond Generators > South Africa").  The command simulates clicking through each menu item in the path, waiting for each screen transition to complete before proceeding.  It includes error handling for menu items not found or unexpected screen behavior.
+
+**III. Universal Data Entry Pattern:**
+
+1. **Command:** `Murex_PopulateForm(fieldNameValuePairs)`
+2. **Description:** Accepts a dictionary or list of `fieldNameValuePairs` where keys are field names (as they appear in Murex) and values are the data to be entered. The command uses screen scraping or object recognition to locate each field, simulates typing the value, uses Tab to move to the next field, and uses Enter to submit data where appropriate.  It handles dropdown selections by locating the dropdown, expanding it, and selecting the specified option.  Error handling includes checks for field existence and data validation errors.
+
+**IV. Generic Selection & Configuration Pattern:**
+
+1. **Command:** `Murex_SelectOption(controlName, optionValue)`
+2. **Description:**  Selects a specific option from a control (e.g., dropdown, radio button, checkbox). `controlName` identifies the control (e.g., "Currency", "Bond Type"), and `optionValue` specifies the desired selection (e.g., "ZAR", "Callable").  The command uses screen scraping or object recognition to locate the control and perform the selection.  Error handling is included for options not found.
+
+**V. Universal Validation & Correction Pattern:**
+
+1. **Command:** `Murex_ValidateField(fieldName, expectedValue)`
+2. **Description:** Checks if the value of a specific field matches the `expectedValue`. If not, it triggers a correction sequence (using the `Murex_PopulateForm` command or other appropriate actions) to correct the discrepancy.  Error handling is included for field validation failures.
+
+**VI. Generic Submission & Confirmation Pattern:**
+
+1. **Command:** `Murex_Submit()`
+2. **Description:** Locates and clicks the primary action button (e.g., "Process", "Submit", "Save", "Execute") to submit the form or complete the workflow.  The command handles any confirmation dialogs that may appear, providing options to confirm or cancel the action.  Error handling includes checks for submission failures and handling of unexpected dialogs.
+
+
+**Example Usage (Illustrative):**
+
+To automate a bond creation workflow in Murex:
+
+```python
+# Assume necessary libraries are imported (e.g., for screen scraping, image recognition)
+
+# Login
+Murex_Login("user123", "password456", "Bonds")
+
+# Navigate to Bond Creation
+Murex_Navigate("Bonds > Bond Generators > Create New Bond")
+
+# Populate the form
+fieldNameValuePairs = {
+    "Security ID": "SAGB123456",
+    "Bond Type": "Callable",
+    "Currency": "ZAR",
+    "Maturity Date": "2026-12-31",
+    # ... other fields ...
+}
+Murex_PopulateForm(fieldNameValuePairs)
+
+# Select options (if needed)
+Murex_SelectOption("Collateral Type", "Mortgage")
+
+# Validate a field
+Murex_ValidateField("Currency", "ZAR")
+
+# Submit the form
+Murex_Submit()
+
+print("Bond creation workflow completed.")
+```
+
+This approach emphasizes reusability and maintainability by abstracting away module-specific details into generic commands.  The specific implementation of these commands would depend on the chosen RPA tool and its capabilities (e.g., UI automation, API interaction, screen scraping).  Robust error handling is crucial for reliable automation in a complex application like Murex.

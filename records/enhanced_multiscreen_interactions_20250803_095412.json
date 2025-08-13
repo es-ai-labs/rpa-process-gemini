@@ -1,0 +1,6398 @@
+{
+  "session_info": {
+    "platform": "Darwin",
+    "start_time": "2025-08-03T09:54:12.911924",
+    "duration": 177.40789103507996,
+    "interaction_count": 397,
+    "keyboard_event_count": 97,
+    "capture_method": "multiscreen_enhanced_fixed",
+    "features": {
+      "multi_screen_recording": true,
+      "visual_recording_highlight": true,
+      "enhanced_keyboard_logging": true,
+      "core_graphics_event_tap": true,
+      "mouse_tracking": true,
+      "click_detection": true,
+      "clipboard_monitoring": true,
+      "app_switching": true,
+      "typing_session_analysis": true,
+      "audio_video_integration": true
+    }
+  },
+  "mouse_interactions": [
+    {
+      "type": "mouse_move",
+      "timestamp": 0.6298048496246338,
+      "datetime": "2025-08-03T09:51:16.133847",
+      "position": {
+        "x": 412,
+        "y": 589
+      },
+      "movement": {
+        "dx": 71,
+        "dy": 30
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 0.7321600914001465,
+      "datetime": "2025-08-03T09:51:16.236200",
+      "position": {
+        "x": 663,
+        "y": 448
+      },
+      "movement": {
+        "dx": 251,
+        "dy": 141
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 0.8343868255615234,
+      "datetime": "2025-08-03T09:51:16.338426",
+      "position": {
+        "x": 971,
+        "y": 290
+      },
+      "movement": {
+        "dx": 308,
+        "dy": 158
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 0.9395248889923096,
+      "datetime": "2025-08-03T09:51:16.443565",
+      "position": {
+        "x": 970,
+        "y": 306
+      },
+      "movement": {
+        "dx": 1,
+        "dy": 16
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 1.0425539016723633,
+      "datetime": "2025-08-03T09:51:16.546593",
+      "position": {
+        "x": 906,
+        "y": 377
+      },
+      "movement": {
+        "dx": 64,
+        "dy": 71
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 1.147735834121704,
+      "datetime": "2025-08-03T09:51:16.651778",
+      "position": {
+        "x": 813,
+        "y": 437
+      },
+      "movement": {
+        "dx": 93,
+        "dy": 60
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 1.2492139339447021,
+      "datetime": "2025-08-03T09:51:16.753254",
+      "position": {
+        "x": 787,
+        "y": 470
+      },
+      "movement": {
+        "dx": 26,
+        "dy": 33
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 1.3544118404388428,
+      "datetime": "2025-08-03T09:51:16.858454",
+      "position": {
+        "x": 771,
+        "y": 493
+      },
+      "movement": {
+        "dx": 16,
+        "dy": 23
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 1.6689558029174805,
+      "datetime": "2025-08-03T09:51:17.172995",
+      "position": {
+        "x": 769,
+        "y": 486
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 1.7700448036193848,
+      "datetime": "2025-08-03T09:51:17.274084",
+      "position": {
+        "x": 769,
+        "y": 486
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 1.8751788139343262,
+      "datetime": "2025-08-03T09:51:17.379219",
+      "position": {
+        "x": 898,
+        "y": 373
+      },
+      "movement": {
+        "dx": 129,
+        "dy": 113
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 1.976707935333252,
+      "datetime": "2025-08-03T09:51:17.480749",
+      "position": {
+        "x": 1316,
+        "y": -44
+      },
+      "movement": {
+        "dx": 418,
+        "dy": 417
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 2.079821825027466,
+      "datetime": "2025-08-03T09:51:17.583863",
+      "position": {
+        "x": 1540,
+        "y": -203
+      },
+      "movement": {
+        "dx": 224,
+        "dy": 159
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 2.2838969230651855,
+      "datetime": "2025-08-03T09:51:17.787937",
+      "position": {
+        "x": 1562,
+        "y": -232
+      },
+      "movement": {
+        "dx": 22,
+        "dy": 29
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 2.3882339000701904,
+      "datetime": "2025-08-03T09:51:17.892273",
+      "position": {
+        "x": 1573,
+        "y": -263
+      },
+      "movement": {
+        "dx": 11,
+        "dy": 31
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 2.4933159351348877,
+      "datetime": "2025-08-03T09:51:17.997355",
+      "position": {
+        "x": 1560,
+        "y": -269
+      },
+      "movement": {
+        "dx": 13,
+        "dy": 6
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 2.5974788665771484,
+      "datetime": "2025-08-03T09:51:18.101518",
+      "position": {
+        "x": 1535,
+        "y": -272
+      },
+      "movement": {
+        "dx": 25,
+        "dy": 3
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 2.6982920169830322,
+      "datetime": "2025-08-03T09:51:18.202330",
+      "position": {
+        "x": 1529,
+        "y": -350
+      },
+      "movement": {
+        "dx": 6,
+        "dy": 78
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 2.801947832107544,
+      "datetime": "2025-08-03T09:51:18.305988",
+      "position": {
+        "x": 1527,
+        "y": -383
+      },
+      "movement": {
+        "dx": 2,
+        "dy": 33
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 3.0101499557495117,
+      "datetime": "2025-08-03T09:51:18.514189",
+      "position": {
+        "x": 1494,
+        "y": -327
+      },
+      "movement": {
+        "dx": 33,
+        "dy": 55
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 3.1112849712371826,
+      "datetime": "2025-08-03T09:51:18.615324",
+      "position": {
+        "x": 1486,
+        "y": -316
+      },
+      "movement": {
+        "dx": 8,
+        "dy": 11
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 3.3179709911346436,
+      "datetime": "2025-08-03T09:51:18.822010",
+      "position": {
+        "x": 1486,
+        "y": -327
+      },
+      "movement": {
+        "dx": 0,
+        "dy": 11
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 3.423191785812378,
+      "datetime": "2025-08-03T09:51:18.927231",
+      "position": {
+        "x": 1468,
+        "y": -460
+      },
+      "movement": {
+        "dx": 18,
+        "dy": 133
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 3.5282788276672363,
+      "datetime": "2025-08-03T09:51:19.032318",
+      "position": {
+        "x": 1467,
+        "y": -501
+      },
+      "movement": {
+        "dx": 1,
+        "dy": 41
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 6.226419925689697,
+      "datetime": "2025-08-03T09:51:21.730459",
+      "position": {
+        "x": 1466,
+        "y": -513
+      },
+      "movement": {
+        "dx": 4,
+        "dy": 12
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 7.986978769302368,
+      "datetime": "2025-08-03T09:51:23.491019",
+      "position": {
+        "x": 1543,
+        "y": -563
+      },
+      "movement": {
+        "dx": 76,
+        "dy": 45
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 8.090878009796143,
+      "datetime": "2025-08-03T09:51:23.594917",
+      "position": {
+        "x": 1752,
+        "y": -701
+      },
+      "movement": {
+        "dx": 209,
+        "dy": 138
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 9.436760902404785,
+      "datetime": "2025-08-03T09:51:24.940799",
+      "position": {
+        "x": 1734,
+        "y": -602
+      },
+      "movement": {
+        "dx": 0,
+        "dy": 99
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 9.43677806854248,
+      "datetime": "2025-08-03T09:51:24.940815",
+      "position": {
+        "x": 1734,
+        "y": -602
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 9.64642882347107,
+      "datetime": "2025-08-03T09:51:25.150468",
+      "position": {
+        "x": 1734,
+        "y": -602
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 17.42250084877014,
+      "datetime": "2025-08-03T09:51:32.926540",
+      "position": {
+        "x": 1739,
+        "y": -580
+      },
+      "movement": {
+        "dx": 5,
+        "dy": 22
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 17.52357792854309,
+      "datetime": "2025-08-03T09:51:33.027617",
+      "position": {
+        "x": 1730,
+        "y": -538
+      },
+      "movement": {
+        "dx": 9,
+        "dy": 42
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 17.62872076034546,
+      "datetime": "2025-08-03T09:51:33.132760",
+      "position": {
+        "x": 1722,
+        "y": -518
+      },
+      "movement": {
+        "dx": 8,
+        "dy": 20
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 17.731335878372192,
+      "datetime": "2025-08-03T09:51:33.235375",
+      "position": {
+        "x": 1706,
+        "y": -486
+      },
+      "movement": {
+        "dx": 16,
+        "dy": 32
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 17.937862873077393,
+      "datetime": "2025-08-03T09:51:33.441902",
+      "position": {
+        "x": 1706,
+        "y": -486
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 18.043001890182495,
+      "datetime": "2025-08-03T09:51:33.547041",
+      "position": {
+        "x": 1706,
+        "y": -486
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 18.663913011550903,
+      "datetime": "2025-08-03T09:51:34.167953",
+      "position": {
+        "x": 1703,
+        "y": -503
+      },
+      "movement": {
+        "dx": 3,
+        "dy": 17
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 18.76897883415222,
+      "datetime": "2025-08-03T09:51:34.273017",
+      "position": {
+        "x": 1587,
+        "y": -648
+      },
+      "movement": {
+        "dx": 116,
+        "dy": 145
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 18.87347102165222,
+      "datetime": "2025-08-03T09:51:34.377510",
+      "position": {
+        "x": 1599,
+        "y": -672
+      },
+      "movement": {
+        "dx": 12,
+        "dy": 24
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 18.977871894836426,
+      "datetime": "2025-08-03T09:51:34.481911",
+      "position": {
+        "x": 1636,
+        "y": -682
+      },
+      "movement": {
+        "dx": 37,
+        "dy": 10
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 19.291919946670532,
+      "datetime": "2025-08-03T09:51:34.795959",
+      "position": {
+        "x": 1677,
+        "y": -631
+      },
+      "movement": {
+        "dx": 36,
+        "dy": 42
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 19.397023916244507,
+      "datetime": "2025-08-03T09:51:34.901062",
+      "position": {
+        "x": 1687,
+        "y": -609
+      },
+      "movement": {
+        "dx": 10,
+        "dy": 22
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 19.60358190536499,
+      "datetime": "2025-08-03T09:51:35.107621",
+      "position": {
+        "x": 1723,
+        "y": -589
+      },
+      "movement": {
+        "dx": 29,
+        "dy": 11
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 22.198124885559082,
+      "datetime": "2025-08-03T09:51:37.702164",
+      "position": {
+        "x": 1713,
+        "y": -590
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 22.303186893463135,
+      "datetime": "2025-08-03T09:51:37.807226",
+      "position": {
+        "x": 1713,
+        "y": -590
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 22.614977836608887,
+      "datetime": "2025-08-03T09:51:38.119017",
+      "position": {
+        "x": 1736,
+        "y": -489
+      },
+      "movement": {
+        "dx": 23,
+        "dy": 101
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 22.716734886169434,
+      "datetime": "2025-08-03T09:51:38.220774",
+      "position": {
+        "x": 1745,
+        "y": -439
+      },
+      "movement": {
+        "dx": 9,
+        "dy": 50
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 22.82179093360901,
+      "datetime": "2025-08-03T09:51:38.325830",
+      "position": {
+        "x": 1748,
+        "y": -428
+      },
+      "movement": {
+        "dx": 3,
+        "dy": 11
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 22.92686700820923,
+      "datetime": "2025-08-03T09:51:38.430906",
+      "position": {
+        "x": 1757,
+        "y": -396
+      },
+      "movement": {
+        "dx": 9,
+        "dy": 32
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 23.551936864852905,
+      "datetime": "2025-08-03T09:51:39.055977",
+      "position": {
+        "x": 1756,
+        "y": -378
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 23.653605937957764,
+      "datetime": "2025-08-03T09:51:39.157645",
+      "position": {
+        "x": 1756,
+        "y": -378
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 24.280662775039673,
+      "datetime": "2025-08-03T09:51:39.784703",
+      "position": {
+        "x": 1756,
+        "y": -476
+      },
+      "movement": {
+        "dx": 0,
+        "dy": 98
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 25.005273818969727,
+      "datetime": "2025-08-03T09:51:40.509313",
+      "position": {
+        "x": 1471,
+        "y": -381
+      },
+      "movement": {
+        "dx": 285,
+        "dy": 95
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 25.10604691505432,
+      "datetime": "2025-08-03T09:51:40.610086",
+      "position": {
+        "x": 712,
+        "y": -106
+      },
+      "movement": {
+        "dx": 759,
+        "dy": 275
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 25.211171865463257,
+      "datetime": "2025-08-03T09:51:40.715211",
+      "position": {
+        "x": 612,
+        "y": -76
+      },
+      "movement": {
+        "dx": 100,
+        "dy": 30
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 25.421326875686646,
+      "datetime": "2025-08-03T09:51:40.925366",
+      "position": {
+        "x": 682,
+        "y": 10
+      },
+      "movement": {
+        "dx": 65,
+        "dy": 82
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 25.525932788848877,
+      "datetime": "2025-08-03T09:51:41.029971",
+      "position": {
+        "x": 776,
+        "y": 89
+      },
+      "movement": {
+        "dx": 94,
+        "dy": 79
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 25.630527019500732,
+      "datetime": "2025-08-03T09:51:41.134566",
+      "position": {
+        "x": 794,
+        "y": 116
+      },
+      "movement": {
+        "dx": 18,
+        "dy": 27
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 25.83461093902588,
+      "datetime": "2025-08-03T09:51:41.338650",
+      "position": {
+        "x": 789,
+        "y": 104
+      },
+      "movement": {
+        "dx": 4,
+        "dy": 13
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 25.939695835113525,
+      "datetime": "2025-08-03T09:51:41.443735",
+      "position": {
+        "x": 790,
+        "y": 101
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 26.04303479194641,
+      "datetime": "2025-08-03T09:51:41.547074",
+      "position": {
+        "x": 866,
+        "y": 64
+      },
+      "movement": {
+        "dx": 76,
+        "dy": 37
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 26.146968841552734,
+      "datetime": "2025-08-03T09:51:41.651008",
+      "position": {
+        "x": 1190,
+        "y": -300
+      },
+      "movement": {
+        "dx": 324,
+        "dy": 364
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 26.252615928649902,
+      "datetime": "2025-08-03T09:51:41.756655",
+      "position": {
+        "x": 1335,
+        "y": -479
+      },
+      "movement": {
+        "dx": 145,
+        "dy": 179
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 26.356578826904297,
+      "datetime": "2025-08-03T09:51:41.860618",
+      "position": {
+        "x": 1382,
+        "y": -554
+      },
+      "movement": {
+        "dx": 47,
+        "dy": 75
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 26.46028184890747,
+      "datetime": "2025-08-03T09:51:41.964321",
+      "position": {
+        "x": 1461,
+        "y": -681
+      },
+      "movement": {
+        "dx": 79,
+        "dy": 127
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 26.56427764892578,
+      "datetime": "2025-08-03T09:51:42.068318",
+      "position": {
+        "x": 1571,
+        "y": -803
+      },
+      "movement": {
+        "dx": 110,
+        "dy": 122
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 26.66497278213501,
+      "datetime": "2025-08-03T09:51:42.169012",
+      "position": {
+        "x": 1590,
+        "y": -866
+      },
+      "movement": {
+        "dx": 19,
+        "dy": 63
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 26.875176906585693,
+      "datetime": "2025-08-03T09:51:42.379217",
+      "position": {
+        "x": 1564,
+        "y": -883
+      },
+      "movement": {
+        "dx": 26,
+        "dy": 14
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 26.980304956436157,
+      "datetime": "2025-08-03T09:51:42.484346",
+      "position": {
+        "x": 1534,
+        "y": -891
+      },
+      "movement": {
+        "dx": 30,
+        "dy": 8
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 28.016303777694702,
+      "datetime": "2025-08-03T09:51:43.520344",
+      "position": {
+        "x": 1534,
+        "y": -796
+      },
+      "movement": {
+        "dx": 0,
+        "dy": 98
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 28.016323804855347,
+      "datetime": "2025-08-03T09:51:43.520361",
+      "position": {
+        "x": 1534,
+        "y": -796
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 28.12142276763916,
+      "datetime": "2025-08-03T09:51:43.625462",
+      "position": {
+        "x": 1237,
+        "y": -799
+      },
+      "movement": {
+        "dx": 297,
+        "dy": 3
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 28.22190499305725,
+      "datetime": "2025-08-03T09:51:43.725944",
+      "position": {
+        "x": 1121,
+        "y": -798
+      },
+      "movement": {
+        "dx": 116,
+        "dy": 1
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 28.32519507408142,
+      "datetime": "2025-08-03T09:51:43.829234",
+      "position": {
+        "x": 1094,
+        "y": -792
+      },
+      "movement": {
+        "dx": 27,
+        "dy": 6
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 28.430266857147217,
+      "datetime": "2025-08-03T09:51:43.934306",
+      "position": {
+        "x": 1016,
+        "y": -798
+      },
+      "movement": {
+        "dx": 78,
+        "dy": 6
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 28.639108896255493,
+      "datetime": "2025-08-03T09:51:44.143148",
+      "position": {
+        "x": 1024,
+        "y": -799
+      },
+      "movement": {
+        "dx": 11,
+        "dy": 2
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 29.157887935638428,
+      "datetime": "2025-08-03T09:51:44.661927",
+      "position": {
+        "x": 1038,
+        "y": -800
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 29.26001787185669,
+      "datetime": "2025-08-03T09:51:44.764058",
+      "position": {
+        "x": 1039,
+        "y": -800
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 29.7881338596344,
+      "datetime": "2025-08-03T09:51:45.292173",
+      "position": {
+        "x": 1039,
+        "y": -898
+      },
+      "movement": {
+        "dx": 0,
+        "dy": 98
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 29.993109703063965,
+      "datetime": "2025-08-03T09:51:45.497150",
+      "position": {
+        "x": 1092,
+        "y": -876
+      },
+      "movement": {
+        "dx": 51,
+        "dy": 22
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 30.09776997566223,
+      "datetime": "2025-08-03T09:51:45.601809",
+      "position": {
+        "x": 1110,
+        "y": -835
+      },
+      "movement": {
+        "dx": 18,
+        "dy": 41
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 30.511260986328125,
+      "datetime": "2025-08-03T09:51:46.015300",
+      "position": {
+        "x": 1222,
+        "y": -850
+      },
+      "movement": {
+        "dx": 110,
+        "dy": 17
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 30.614672899246216,
+      "datetime": "2025-08-03T09:51:46.118717",
+      "position": {
+        "x": 1487,
+        "y": -918
+      },
+      "movement": {
+        "dx": 265,
+        "dy": 68
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 30.718138933181763,
+      "datetime": "2025-08-03T09:51:46.222178",
+      "position": {
+        "x": 1857,
+        "y": -1000
+      },
+      "movement": {
+        "dx": 370,
+        "dy": 82
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 30.818575859069824,
+      "datetime": "2025-08-03T09:51:46.322616",
+      "position": {
+        "x": 1969,
+        "y": -1005
+      },
+      "movement": {
+        "dx": 112,
+        "dy": 5
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 30.92370581626892,
+      "datetime": "2025-08-03T09:51:46.427745",
+      "position": {
+        "x": 2144,
+        "y": -1012
+      },
+      "movement": {
+        "dx": 175,
+        "dy": 7
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 31.025270700454712,
+      "datetime": "2025-08-03T09:51:46.529311",
+      "position": {
+        "x": 2310,
+        "y": -1018
+      },
+      "movement": {
+        "dx": 166,
+        "dy": 6
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 31.128865718841553,
+      "datetime": "2025-08-03T09:51:46.632905",
+      "position": {
+        "x": 2398,
+        "y": -1038
+      },
+      "movement": {
+        "dx": 88,
+        "dy": 20
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 31.229296922683716,
+      "datetime": "2025-08-03T09:51:46.733336",
+      "position": {
+        "x": 2413,
+        "y": -1045
+      },
+      "movement": {
+        "dx": 15,
+        "dy": 7
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 31.542703866958618,
+      "datetime": "2025-08-03T09:51:47.046743",
+      "position": {
+        "x": 2431,
+        "y": -1057
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 31.645823001861572,
+      "datetime": "2025-08-03T09:51:47.149861",
+      "position": {
+        "x": 2431,
+        "y": -1057
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 34.66520404815674,
+      "datetime": "2025-08-03T09:51:50.169244",
+      "position": {
+        "x": 2407,
+        "y": -1053
+      },
+      "movement": {
+        "dx": 24,
+        "dy": 4
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 34.766034841537476,
+      "datetime": "2025-08-03T09:51:50.270073",
+      "position": {
+        "x": 2365,
+        "y": -1044
+      },
+      "movement": {
+        "dx": 42,
+        "dy": 9
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 34.868083000183105,
+      "datetime": "2025-08-03T09:51:50.372123",
+      "position": {
+        "x": 2337,
+        "y": -1037
+      },
+      "movement": {
+        "dx": 28,
+        "dy": 7
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 34.972431898117065,
+      "datetime": "2025-08-03T09:51:50.476472",
+      "position": {
+        "x": 2307,
+        "y": -1033
+      },
+      "movement": {
+        "dx": 30,
+        "dy": 4
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 35.07459378242493,
+      "datetime": "2025-08-03T09:51:50.578633",
+      "position": {
+        "x": 2261,
+        "y": -1026
+      },
+      "movement": {
+        "dx": 46,
+        "dy": 7
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 35.17631483078003,
+      "datetime": "2025-08-03T09:51:50.680355",
+      "position": {
+        "x": 2216,
+        "y": -1020
+      },
+      "movement": {
+        "dx": 45,
+        "dy": 6
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 37.15305685997009,
+      "datetime": "2025-08-03T09:51:52.657095",
+      "position": {
+        "x": 2198,
+        "y": -1025
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 37.25881767272949,
+      "datetime": "2025-08-03T09:51:52.762857",
+      "position": {
+        "x": 2198,
+        "y": -1025
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 37.3640558719635,
+      "datetime": "2025-08-03T09:51:52.868095",
+      "position": {
+        "x": 2198,
+        "y": -1025
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 37.46782970428467,
+      "datetime": "2025-08-03T09:51:52.971869",
+      "position": {
+        "x": 2198,
+        "y": -1025
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 39.036112785339355,
+      "datetime": "2025-08-03T09:51:54.540151",
+      "position": {
+        "x": 1885,
+        "y": -757
+      },
+      "movement": {
+        "dx": 313,
+        "dy": 268
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 39.138290882110596,
+      "datetime": "2025-08-03T09:51:54.642330",
+      "position": {
+        "x": 1713,
+        "y": -621
+      },
+      "movement": {
+        "dx": 172,
+        "dy": 136
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 48.35448384284973,
+      "datetime": "2025-08-03T09:52:03.858523",
+      "position": {
+        "x": 1682,
+        "y": -649
+      },
+      "movement": {
+        "dx": 35,
+        "dy": 13
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 48.45751094818115,
+      "datetime": "2025-08-03T09:52:03.961551",
+      "position": {
+        "x": 1237,
+        "y": -725
+      },
+      "movement": {
+        "dx": 445,
+        "dy": 76
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 48.56261992454529,
+      "datetime": "2025-08-03T09:52:04.066659",
+      "position": {
+        "x": 1187,
+        "y": -729
+      },
+      "movement": {
+        "dx": 50,
+        "dy": 4
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 48.771899938583374,
+      "datetime": "2025-08-03T09:52:04.275939",
+      "position": {
+        "x": 1133,
+        "y": -760
+      },
+      "movement": {
+        "dx": 51,
+        "dy": 31
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 48.87269377708435,
+      "datetime": "2025-08-03T09:52:04.376733",
+      "position": {
+        "x": 1023,
+        "y": -832
+      },
+      "movement": {
+        "dx": 110,
+        "dy": 72
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 48.975584745407104,
+      "datetime": "2025-08-03T09:52:04.479623",
+      "position": {
+        "x": 989,
+        "y": -873
+      },
+      "movement": {
+        "dx": 34,
+        "dy": 41
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 49.18345594406128,
+      "datetime": "2025-08-03T09:52:04.687495",
+      "position": {
+        "x": 936,
+        "y": -927
+      },
+      "movement": {
+        "dx": 43,
+        "dy": 44
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 49.28939986228943,
+      "datetime": "2025-08-03T09:52:04.793439",
+      "position": {
+        "x": 926,
+        "y": -949
+      },
+      "movement": {
+        "dx": 10,
+        "dy": 22
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 49.60211372375488,
+      "datetime": "2025-08-03T09:52:05.106153",
+      "position": {
+        "x": 919,
+        "y": -988
+      },
+      "movement": {
+        "dx": 10,
+        "dy": 33
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 49.7072069644928,
+      "datetime": "2025-08-03T09:52:05.211246",
+      "position": {
+        "x": 909,
+        "y": -1016
+      },
+      "movement": {
+        "dx": 10,
+        "dy": 28
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 50.53422784805298,
+      "datetime": "2025-08-03T09:52:06.038266",
+      "position": {
+        "x": 906,
+        "y": -1056
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 50.74461078643799,
+      "datetime": "2025-08-03T09:52:06.248650",
+      "position": {
+        "x": 906,
+        "y": -1056
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 52.10090970993042,
+      "datetime": "2025-08-03T09:52:07.604949",
+      "position": {
+        "x": 915,
+        "y": -1023
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 52.207849979400635,
+      "datetime": "2025-08-03T09:52:07.711888",
+      "position": {
+        "x": 915,
+        "y": -1023
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 52.51489591598511,
+      "datetime": "2025-08-03T09:52:08.018934",
+      "position": {
+        "x": 1012,
+        "y": -889
+      },
+      "movement": {
+        "dx": 94,
+        "dy": 129
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 52.61702299118042,
+      "datetime": "2025-08-03T09:52:08.121062",
+      "position": {
+        "x": 1041,
+        "y": -846
+      },
+      "movement": {
+        "dx": 29,
+        "dy": 43
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 52.72145390510559,
+      "datetime": "2025-08-03T09:52:08.225493",
+      "position": {
+        "x": 1054,
+        "y": -836
+      },
+      "movement": {
+        "dx": 13,
+        "dy": 10
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 52.82694482803345,
+      "datetime": "2025-08-03T09:52:08.330985",
+      "position": {
+        "x": 1081,
+        "y": -830
+      },
+      "movement": {
+        "dx": 27,
+        "dy": 6
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 53.03717589378357,
+      "datetime": "2025-08-03T09:52:08.541214",
+      "position": {
+        "x": 1128,
+        "y": -875
+      },
+      "movement": {
+        "dx": 45,
+        "dy": 42
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 53.14231586456299,
+      "datetime": "2025-08-03T09:52:08.646355",
+      "position": {
+        "x": 1152,
+        "y": -878
+      },
+      "movement": {
+        "dx": 24,
+        "dy": 3
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 54.60342288017273,
+      "datetime": "2025-08-03T09:52:10.107463",
+      "position": {
+        "x": 1190,
+        "y": -899
+      },
+      "movement": {
+        "dx": 13,
+        "dy": 7
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 54.809329986572266,
+      "datetime": "2025-08-03T09:52:10.313369",
+      "position": {
+        "x": 1191,
+        "y": -900
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 54.914443016052246,
+      "datetime": "2025-08-03T09:52:10.418482",
+      "position": {
+        "x": 1191,
+        "y": -900
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 60.456249952316284,
+      "datetime": "2025-08-03T09:52:15.960290",
+      "position": {
+        "x": 1213,
+        "y": -872
+      },
+      "movement": {
+        "dx": 22,
+        "dy": 28
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 60.561342000961304,
+      "datetime": "2025-08-03T09:52:16.065381",
+      "position": {
+        "x": 1242,
+        "y": -765
+      },
+      "movement": {
+        "dx": 29,
+        "dy": 107
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 60.66342091560364,
+      "datetime": "2025-08-03T09:52:16.167460",
+      "position": {
+        "x": 1244,
+        "y": -743
+      },
+      "movement": {
+        "dx": 2,
+        "dy": 22
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 60.764978885650635,
+      "datetime": "2025-08-03T09:52:16.269017",
+      "position": {
+        "x": 1249,
+        "y": -732
+      },
+      "movement": {
+        "dx": 5,
+        "dy": 11
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 60.86531591415405,
+      "datetime": "2025-08-03T09:52:16.369356",
+      "position": {
+        "x": 1269,
+        "y": -679
+      },
+      "movement": {
+        "dx": 20,
+        "dy": 53
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 61.17695069313049,
+      "datetime": "2025-08-03T09:52:16.680991",
+      "position": {
+        "x": 1278,
+        "y": -662
+      },
+      "movement": {
+        "dx": 7,
+        "dy": 12
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 62.10761594772339,
+      "datetime": "2025-08-03T09:52:17.611654",
+      "position": {
+        "x": 1291,
+        "y": -662
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 62.21412897109985,
+      "datetime": "2025-08-03T09:52:17.718168",
+      "position": {
+        "x": 1291,
+        "y": -662
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 63.255945920944214,
+      "datetime": "2025-08-03T09:52:18.759985",
+      "position": {
+        "x": 1197,
+        "y": -734
+      },
+      "movement": {
+        "dx": 94,
+        "dy": 72
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 63.36108589172363,
+      "datetime": "2025-08-03T09:52:18.865125",
+      "position": {
+        "x": 1103,
+        "y": -788
+      },
+      "movement": {
+        "dx": 94,
+        "dy": 54
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 63.46521973609924,
+      "datetime": "2025-08-03T09:52:18.969259",
+      "position": {
+        "x": 1066,
+        "y": -810
+      },
+      "movement": {
+        "dx": 37,
+        "dy": 22
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 63.569501876831055,
+      "datetime": "2025-08-03T09:52:19.073541",
+      "position": {
+        "x": 983,
+        "y": -855
+      },
+      "movement": {
+        "dx": 83,
+        "dy": 45
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 63.673393964767456,
+      "datetime": "2025-08-03T09:52:19.177432",
+      "position": {
+        "x": 930,
+        "y": -883
+      },
+      "movement": {
+        "dx": 53,
+        "dy": 28
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 64.30172872543335,
+      "datetime": "2025-08-03T09:52:19.805768",
+      "position": {
+        "x": 915,
+        "y": -897
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 64.40801000595093,
+      "datetime": "2025-08-03T09:52:19.912049",
+      "position": {
+        "x": 915,
+        "y": -897
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 64.51412677764893,
+      "datetime": "2025-08-03T09:52:20.018170",
+      "position": {
+        "x": 915,
+        "y": -897
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 64.61932802200317,
+      "datetime": "2025-08-03T09:52:20.123367",
+      "position": {
+        "x": 915,
+        "y": -897
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 64.92997884750366,
+      "datetime": "2025-08-03T09:52:20.434019",
+      "position": {
+        "x": 977,
+        "y": -858
+      },
+      "movement": {
+        "dx": 62,
+        "dy": 39
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 65.03506684303284,
+      "datetime": "2025-08-03T09:52:20.539106",
+      "position": {
+        "x": 1094,
+        "y": -744
+      },
+      "movement": {
+        "dx": 117,
+        "dy": 114
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 65.14017677307129,
+      "datetime": "2025-08-03T09:52:20.644215",
+      "position": {
+        "x": 1147,
+        "y": -692
+      },
+      "movement": {
+        "dx": 53,
+        "dy": 52
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 65.2441759109497,
+      "datetime": "2025-08-03T09:52:20.748215",
+      "position": {
+        "x": 1191,
+        "y": -646
+      },
+      "movement": {
+        "dx": 44,
+        "dy": 46
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 65.34930682182312,
+      "datetime": "2025-08-03T09:52:20.853346",
+      "position": {
+        "x": 1216,
+        "y": -630
+      },
+      "movement": {
+        "dx": 25,
+        "dy": 16
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 65.4515278339386,
+      "datetime": "2025-08-03T09:52:20.955568",
+      "position": {
+        "x": 1250,
+        "y": -611
+      },
+      "movement": {
+        "dx": 34,
+        "dy": 19
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 65.55677700042725,
+      "datetime": "2025-08-03T09:52:21.060816",
+      "position": {
+        "x": 1271,
+        "y": -598
+      },
+      "movement": {
+        "dx": 21,
+        "dy": 13
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 66.2909939289093,
+      "datetime": "2025-08-03T09:52:21.795033",
+      "position": {
+        "x": 1299,
+        "y": -580
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 66.39614391326904,
+      "datetime": "2025-08-03T09:52:21.900183",
+      "position": {
+        "x": 1299,
+        "y": -580
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 66.8061158657074,
+      "datetime": "2025-08-03T09:52:22.310155",
+      "position": {
+        "x": 1263,
+        "y": -620
+      },
+      "movement": {
+        "dx": 36,
+        "dy": 40
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 66.91041374206543,
+      "datetime": "2025-08-03T09:52:22.414452",
+      "position": {
+        "x": 1139,
+        "y": -734
+      },
+      "movement": {
+        "dx": 124,
+        "dy": 114
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 67.0143518447876,
+      "datetime": "2025-08-03T09:52:22.518391",
+      "position": {
+        "x": 1125,
+        "y": -748
+      },
+      "movement": {
+        "dx": 14,
+        "dy": 14
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 67.11944389343262,
+      "datetime": "2025-08-03T09:52:22.623483",
+      "position": {
+        "x": 1076,
+        "y": -780
+      },
+      "movement": {
+        "dx": 49,
+        "dy": 32
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 67.32885098457336,
+      "datetime": "2025-08-03T09:52:22.832891",
+      "position": {
+        "x": 1012,
+        "y": -801
+      },
+      "movement": {
+        "dx": 62,
+        "dy": 22
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 67.43393993377686,
+      "datetime": "2025-08-03T09:52:22.937979",
+      "position": {
+        "x": 994,
+        "y": -814
+      },
+      "movement": {
+        "dx": 18,
+        "dy": 13
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 67.53903794288635,
+      "datetime": "2025-08-03T09:52:23.043077",
+      "position": {
+        "x": 965,
+        "y": -833
+      },
+      "movement": {
+        "dx": 29,
+        "dy": 19
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 68.577312707901,
+      "datetime": "2025-08-03T09:52:24.081352",
+      "position": {
+        "x": 928,
+        "y": -868
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 68.68167781829834,
+      "datetime": "2025-08-03T09:52:24.185716",
+      "position": {
+        "x": 928,
+        "y": -868
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 68.78767991065979,
+      "datetime": "2025-08-03T09:52:24.291719",
+      "position": {
+        "x": 928,
+        "y": -868
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 68.89188981056213,
+      "datetime": "2025-08-03T09:52:24.395929",
+      "position": {
+        "x": 928,
+        "y": -868
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 69.31440901756287,
+      "datetime": "2025-08-03T09:52:24.818448",
+      "position": {
+        "x": 967,
+        "y": -841
+      },
+      "movement": {
+        "dx": 39,
+        "dy": 27
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 69.41511988639832,
+      "datetime": "2025-08-03T09:52:24.919159",
+      "position": {
+        "x": 1067,
+        "y": -745
+      },
+      "movement": {
+        "dx": 100,
+        "dy": 96
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 69.51535081863403,
+      "datetime": "2025-08-03T09:52:25.019390",
+      "position": {
+        "x": 1130,
+        "y": -674
+      },
+      "movement": {
+        "dx": 63,
+        "dy": 71
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 69.83098292350769,
+      "datetime": "2025-08-03T09:52:25.335022",
+      "position": {
+        "x": 1171,
+        "y": -642
+      },
+      "movement": {
+        "dx": 33,
+        "dy": 19
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 69.93289589881897,
+      "datetime": "2025-08-03T09:52:25.436934",
+      "position": {
+        "x": 1214,
+        "y": -629
+      },
+      "movement": {
+        "dx": 43,
+        "dy": 13
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 70.03737664222717,
+      "datetime": "2025-08-03T09:52:25.541416",
+      "position": {
+        "x": 1270,
+        "y": -609
+      },
+      "movement": {
+        "dx": 56,
+        "dy": 20
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 70.142502784729,
+      "datetime": "2025-08-03T09:52:25.646541",
+      "position": {
+        "x": 1321,
+        "y": -596
+      },
+      "movement": {
+        "dx": 51,
+        "dy": 13
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 70.34846806526184,
+      "datetime": "2025-08-03T09:52:25.852507",
+      "position": {
+        "x": 1347,
+        "y": -584
+      },
+      "movement": {
+        "dx": 21,
+        "dy": 10
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 71.69629287719727,
+      "datetime": "2025-08-03T09:52:27.200332",
+      "position": {
+        "x": 1359,
+        "y": -591
+      },
+      "movement": {
+        "dx": 11,
+        "dy": 8
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 71.7982988357544,
+      "datetime": "2025-08-03T09:52:27.302338",
+      "position": {
+        "x": 1508,
+        "y": -698
+      },
+      "movement": {
+        "dx": 149,
+        "dy": 107
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 71.90344190597534,
+      "datetime": "2025-08-03T09:52:27.407481",
+      "position": {
+        "x": 1525,
+        "y": -701
+      },
+      "movement": {
+        "dx": 17,
+        "dy": 3
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 72.00859594345093,
+      "datetime": "2025-08-03T09:52:27.512636",
+      "position": {
+        "x": 1545,
+        "y": -709
+      },
+      "movement": {
+        "dx": 20,
+        "dy": 8
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 72.11094880104065,
+      "datetime": "2025-08-03T09:52:27.614988",
+      "position": {
+        "x": 1574,
+        "y": -735
+      },
+      "movement": {
+        "dx": 29,
+        "dy": 26
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 72.3198459148407,
+      "datetime": "2025-08-03T09:52:27.823885",
+      "position": {
+        "x": 1568,
+        "y": -760
+      },
+      "movement": {
+        "dx": 7,
+        "dy": 24
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 72.42495489120483,
+      "datetime": "2025-08-03T09:52:27.928993",
+      "position": {
+        "x": 1561,
+        "y": -790
+      },
+      "movement": {
+        "dx": 7,
+        "dy": 30
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 73.05616068840027,
+      "datetime": "2025-08-03T09:52:28.560201",
+      "position": {
+        "x": 1561,
+        "y": -797
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 73.16140604019165,
+      "datetime": "2025-08-03T09:52:28.665445",
+      "position": {
+        "x": 1561,
+        "y": -797
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 83.31388282775879,
+      "datetime": "2025-08-03T09:52:38.817922",
+      "position": {
+        "x": 1578,
+        "y": -758
+      },
+      "movement": {
+        "dx": 16,
+        "dy": 37
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 83.41440892219543,
+      "datetime": "2025-08-03T09:52:38.918448",
+      "position": {
+        "x": 1583,
+        "y": -729
+      },
+      "movement": {
+        "dx": 5,
+        "dy": 29
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 83.51956486701965,
+      "datetime": "2025-08-03T09:52:39.023605",
+      "position": {
+        "x": 1585,
+        "y": -716
+      },
+      "movement": {
+        "dx": 2,
+        "dy": 13
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 84.45937371253967,
+      "datetime": "2025-08-03T09:52:39.963414",
+      "position": {
+        "x": 1639,
+        "y": -726
+      },
+      "movement": {
+        "dx": 52,
+        "dy": 22
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 84.56382274627686,
+      "datetime": "2025-08-03T09:52:40.067862",
+      "position": {
+        "x": 1766,
+        "y": -760
+      },
+      "movement": {
+        "dx": 127,
+        "dy": 34
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 84.66892075538635,
+      "datetime": "2025-08-03T09:52:40.172960",
+      "position": {
+        "x": 1809,
+        "y": -776
+      },
+      "movement": {
+        "dx": 43,
+        "dy": 16
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 84.77016568183899,
+      "datetime": "2025-08-03T09:52:40.274204",
+      "position": {
+        "x": 1838,
+        "y": -787
+      },
+      "movement": {
+        "dx": 29,
+        "dy": 11
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 84.97660875320435,
+      "datetime": "2025-08-03T09:52:40.480648",
+      "position": {
+        "x": 1826,
+        "y": -785
+      },
+      "movement": {
+        "dx": 12,
+        "dy": 2
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 85.49579763412476,
+      "datetime": "2025-08-03T09:52:40.999837",
+      "position": {
+        "x": 1820,
+        "y": -795
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 85.80104684829712,
+      "datetime": "2025-08-03T09:52:41.305086",
+      "position": {
+        "x": 1820,
+        "y": -795
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 86.4242308139801,
+      "datetime": "2025-08-03T09:52:41.928271",
+      "position": {
+        "x": 1671,
+        "y": -820
+      },
+      "movement": {
+        "dx": 148,
+        "dy": 25
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 86.52900791168213,
+      "datetime": "2025-08-03T09:52:42.033047",
+      "position": {
+        "x": 1385,
+        "y": -836
+      },
+      "movement": {
+        "dx": 286,
+        "dy": 16
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 86.63408780097961,
+      "datetime": "2025-08-03T09:52:42.138127",
+      "position": {
+        "x": 1339,
+        "y": -845
+      },
+      "movement": {
+        "dx": 46,
+        "dy": 9
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 86.73870491981506,
+      "datetime": "2025-08-03T09:52:42.242744",
+      "position": {
+        "x": 1213,
+        "y": -850
+      },
+      "movement": {
+        "dx": 126,
+        "dy": 5
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 86.84383893013,
+      "datetime": "2025-08-03T09:52:42.347878",
+      "position": {
+        "x": 1175,
+        "y": -855
+      },
+      "movement": {
+        "dx": 38,
+        "dy": 5
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 86.94868087768555,
+      "datetime": "2025-08-03T09:52:42.452720",
+      "position": {
+        "x": 1147,
+        "y": -857
+      },
+      "movement": {
+        "dx": 28,
+        "dy": 2
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 87.05114388465881,
+      "datetime": "2025-08-03T09:52:42.555183",
+      "position": {
+        "x": 1077,
+        "y": -851
+      },
+      "movement": {
+        "dx": 70,
+        "dy": 6
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 87.15441799163818,
+      "datetime": "2025-08-03T09:52:42.658457",
+      "position": {
+        "x": 1057,
+        "y": -843
+      },
+      "movement": {
+        "dx": 20,
+        "dy": 8
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 87.36471772193909,
+      "datetime": "2025-08-03T09:52:42.868756",
+      "position": {
+        "x": 1033,
+        "y": -832
+      },
+      "movement": {
+        "dx": 14,
+        "dy": 4
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 87.46851205825806,
+      "datetime": "2025-08-03T09:52:42.972551",
+      "position": {
+        "x": 1013,
+        "y": -821
+      },
+      "movement": {
+        "dx": 20,
+        "dy": 11
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 88.29943871498108,
+      "datetime": "2025-08-03T09:52:43.803478",
+      "position": {
+        "x": 1003,
+        "y": -805
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 88.40467476844788,
+      "datetime": "2025-08-03T09:52:43.908714",
+      "position": {
+        "x": 1003,
+        "y": -805
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 88.62057280540466,
+      "datetime": "2025-08-03T09:52:44.124612",
+      "position": {
+        "x": 1003,
+        "y": -805
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 88.72574591636658,
+      "datetime": "2025-08-03T09:52:44.229785",
+      "position": {
+        "x": 1003,
+        "y": -805
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 89.35214900970459,
+      "datetime": "2025-08-03T09:52:44.856188",
+      "position": {
+        "x": 1133,
+        "y": -795
+      },
+      "movement": {
+        "dx": 130,
+        "dy": 10
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 89.45729494094849,
+      "datetime": "2025-08-03T09:52:44.961334",
+      "position": {
+        "x": 1360,
+        "y": -763
+      },
+      "movement": {
+        "dx": 227,
+        "dy": 32
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 89.56237483024597,
+      "datetime": "2025-08-03T09:52:45.066413",
+      "position": {
+        "x": 1393,
+        "y": -772
+      },
+      "movement": {
+        "dx": 33,
+        "dy": 9
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 89.66753697395325,
+      "datetime": "2025-08-03T09:52:45.171576",
+      "position": {
+        "x": 1463,
+        "y": -777
+      },
+      "movement": {
+        "dx": 70,
+        "dy": 5
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 89.76787090301514,
+      "datetime": "2025-08-03T09:52:45.271910",
+      "position": {
+        "x": 1539,
+        "y": -746
+      },
+      "movement": {
+        "dx": 76,
+        "dy": 31
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 89.87221574783325,
+      "datetime": "2025-08-03T09:52:45.376254",
+      "position": {
+        "x": 1530,
+        "y": -664
+      },
+      "movement": {
+        "dx": 9,
+        "dy": 82
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 89.97733092308044,
+      "datetime": "2025-08-03T09:52:45.481370",
+      "position": {
+        "x": 1513,
+        "y": -464
+      },
+      "movement": {
+        "dx": 17,
+        "dy": 200
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 90.0824966430664,
+      "datetime": "2025-08-03T09:52:45.586536",
+      "position": {
+        "x": 1673,
+        "y": -267
+      },
+      "movement": {
+        "dx": 160,
+        "dy": 197
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 90.1861298084259,
+      "datetime": "2025-08-03T09:52:45.690169",
+      "position": {
+        "x": 1660,
+        "y": -234
+      },
+      "movement": {
+        "dx": 13,
+        "dy": 33
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 90.50065994262695,
+      "datetime": "2025-08-03T09:52:46.004698",
+      "position": {
+        "x": 1691,
+        "y": -192
+      },
+      "movement": {
+        "dx": 31,
+        "dy": 42
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 90.60516881942749,
+      "datetime": "2025-08-03T09:52:46.109208",
+      "position": {
+        "x": 1749,
+        "y": -65
+      },
+      "movement": {
+        "dx": 58,
+        "dy": 127
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 90.71142101287842,
+      "datetime": "2025-08-03T09:52:46.215460",
+      "position": {
+        "x": 1763,
+        "y": -33
+      },
+      "movement": {
+        "dx": 14,
+        "dy": 32
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 92.89526581764221,
+      "datetime": "2025-08-03T09:52:48.399305",
+      "position": {
+        "x": 1731,
+        "y": -45
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 93.10501480102539,
+      "datetime": "2025-08-03T09:52:48.609054",
+      "position": {
+        "x": 1731,
+        "y": -45
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 93.62506484985352,
+      "datetime": "2025-08-03T09:52:49.129107",
+      "position": {
+        "x": 1497,
+        "y": -441
+      },
+      "movement": {
+        "dx": 234,
+        "dy": 396
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 93.7286958694458,
+      "datetime": "2025-08-03T09:52:49.232735",
+      "position": {
+        "x": 1164,
+        "y": -698
+      },
+      "movement": {
+        "dx": 333,
+        "dy": 257
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 94.04079580307007,
+      "datetime": "2025-08-03T09:52:49.544835",
+      "position": {
+        "x": 1152,
+        "y": -717
+      },
+      "movement": {
+        "dx": 12,
+        "dy": 19
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 94.14589500427246,
+      "datetime": "2025-08-03T09:52:49.649934",
+      "position": {
+        "x": 1122,
+        "y": -802
+      },
+      "movement": {
+        "dx": 30,
+        "dy": 85
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 94.24836993217468,
+      "datetime": "2025-08-03T09:52:49.752409",
+      "position": {
+        "x": 1109,
+        "y": -838
+      },
+      "movement": {
+        "dx": 13,
+        "dy": 36
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 94.35408997535706,
+      "datetime": "2025-08-03T09:52:49.858129",
+      "position": {
+        "x": 1098,
+        "y": -868
+      },
+      "movement": {
+        "dx": 11,
+        "dy": 30
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 96.32860088348389,
+      "datetime": "2025-08-03T09:52:51.832640",
+      "position": {
+        "x": 1088,
+        "y": -894
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 96.43372297286987,
+      "datetime": "2025-08-03T09:52:51.937762",
+      "position": {
+        "x": 1088,
+        "y": -894
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 102.16911578178406,
+      "datetime": "2025-08-03T09:52:57.673155",
+      "position": {
+        "x": 1074,
+        "y": -887
+      },
+      "movement": {
+        "dx": 14,
+        "dy": 7
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 102.27425694465637,
+      "datetime": "2025-08-03T09:52:57.778296",
+      "position": {
+        "x": 1087,
+        "y": -868
+      },
+      "movement": {
+        "dx": 13,
+        "dy": 19
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 102.47838068008423,
+      "datetime": "2025-08-03T09:52:57.982420",
+      "position": {
+        "x": 1070,
+        "y": -866
+      },
+      "movement": {
+        "dx": 17,
+        "dy": 2
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 102.58330702781677,
+      "datetime": "2025-08-03T09:52:58.087346",
+      "position": {
+        "x": 1040,
+        "y": -870
+      },
+      "movement": {
+        "dx": 30,
+        "dy": 4
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 102.89842677116394,
+      "datetime": "2025-08-03T09:52:58.402466",
+      "position": {
+        "x": 1039,
+        "y": -872
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 103.00723266601562,
+      "datetime": "2025-08-03T09:52:58.511272",
+      "position": {
+        "x": 1039,
+        "y": -872
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 103.42796277999878,
+      "datetime": "2025-08-03T09:52:58.932001",
+      "position": {
+        "x": 1067,
+        "y": -868
+      },
+      "movement": {
+        "dx": 28,
+        "dy": 4
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 103.52832794189453,
+      "datetime": "2025-08-03T09:52:59.032367",
+      "position": {
+        "x": 1151,
+        "y": -870
+      },
+      "movement": {
+        "dx": 84,
+        "dy": 2
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 103.63341069221497,
+      "datetime": "2025-08-03T09:52:59.137449",
+      "position": {
+        "x": 1178,
+        "y": -873
+      },
+      "movement": {
+        "dx": 27,
+        "dy": 3
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 103.84029293060303,
+      "datetime": "2025-08-03T09:52:59.344332",
+      "position": {
+        "x": 1223,
+        "y": -877
+      },
+      "movement": {
+        "dx": 41,
+        "dy": 4
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 104.15399670600891,
+      "datetime": "2025-08-03T09:52:59.658036",
+      "position": {
+        "x": 1247,
+        "y": -878
+      },
+      "movement": {
+        "dx": 11,
+        "dy": 0
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 106.24017477035522,
+      "datetime": "2025-08-03T09:53:01.744214",
+      "position": {
+        "x": 1257,
+        "y": -875
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 106.34484791755676,
+      "datetime": "2025-08-03T09:53:01.848887",
+      "position": {
+        "x": 1257,
+        "y": -875
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 106.97953486442566,
+      "datetime": "2025-08-03T09:53:02.483574",
+      "position": {
+        "x": 1215,
+        "y": -895
+      },
+      "movement": {
+        "dx": 42,
+        "dy": 20
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 107.08470296859741,
+      "datetime": "2025-08-03T09:53:02.588743",
+      "position": {
+        "x": 1002,
+        "y": -931
+      },
+      "movement": {
+        "dx": 213,
+        "dy": 36
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 107.18983769416809,
+      "datetime": "2025-08-03T09:53:02.693877",
+      "position": {
+        "x": 988,
+        "y": -934
+      },
+      "movement": {
+        "dx": 14,
+        "dy": 3
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 107.29484581947327,
+      "datetime": "2025-08-03T09:53:02.798885",
+      "position": {
+        "x": 955,
+        "y": -940
+      },
+      "movement": {
+        "dx": 33,
+        "dy": 6
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 107.39684677124023,
+      "datetime": "2025-08-03T09:53:02.900886",
+      "position": {
+        "x": 932,
+        "y": -955
+      },
+      "movement": {
+        "dx": 23,
+        "dy": 15
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 107.50192904472351,
+      "datetime": "2025-08-03T09:53:03.005967",
+      "position": {
+        "x": 924,
+        "y": -969
+      },
+      "movement": {
+        "dx": 8,
+        "dy": 14
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 108.85238790512085,
+      "datetime": "2025-08-03T09:53:04.356427",
+      "position": {
+        "x": 926,
+        "y": -941
+      },
+      "movement": {
+        "dx": 3,
+        "dy": 21
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 108.95753383636475,
+      "datetime": "2025-08-03T09:53:04.461573",
+      "position": {
+        "x": 928,
+        "y": -914
+      },
+      "movement": {
+        "dx": 2,
+        "dy": 27
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 109.27126979827881,
+      "datetime": "2025-08-03T09:53:04.775308",
+      "position": {
+        "x": 923,
+        "y": -942
+      },
+      "movement": {
+        "dx": 5,
+        "dy": 28
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 109.37298893928528,
+      "datetime": "2025-08-03T09:53:04.877028",
+      "position": {
+        "x": 912,
+        "y": -961
+      },
+      "movement": {
+        "dx": 11,
+        "dy": 19
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 109.67914867401123,
+      "datetime": "2025-08-03T09:53:05.183188",
+      "position": {
+        "x": 907,
+        "y": -970
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 109.78436470031738,
+      "datetime": "2025-08-03T09:53:05.288404",
+      "position": {
+        "x": 907,
+        "y": -970
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 110.30308985710144,
+      "datetime": "2025-08-03T09:53:05.807129",
+      "position": {
+        "x": 905,
+        "y": -976
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 110.40832495689392,
+      "datetime": "2025-08-03T09:53:05.912363",
+      "position": {
+        "x": 905,
+        "y": -976
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 113.4453136920929,
+      "datetime": "2025-08-03T09:53:08.949354",
+      "position": {
+        "x": 920,
+        "y": -952
+      },
+      "movement": {
+        "dx": 15,
+        "dy": 24
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 113.54584574699402,
+      "datetime": "2025-08-03T09:53:09.049885",
+      "position": {
+        "x": 929,
+        "y": -867
+      },
+      "movement": {
+        "dx": 9,
+        "dy": 85
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 113.65106797218323,
+      "datetime": "2025-08-03T09:53:09.155106",
+      "position": {
+        "x": 927,
+        "y": -847
+      },
+      "movement": {
+        "dx": 2,
+        "dy": 20
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 115.53080773353577,
+      "datetime": "2025-08-03T09:53:11.034848",
+      "position": {
+        "x": 930,
+        "y": -905
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 115.63167381286621,
+      "datetime": "2025-08-03T09:53:11.135712",
+      "position": {
+        "x": 930,
+        "y": -905
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 116.35623097419739,
+      "datetime": "2025-08-03T09:53:11.860270",
+      "position": {
+        "x": 928,
+        "y": -908
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 116.46112179756165,
+      "datetime": "2025-08-03T09:53:11.965161",
+      "position": {
+        "x": 928,
+        "y": -908
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 116.56626486778259,
+      "datetime": "2025-08-03T09:53:12.070303",
+      "position": {
+        "x": 928,
+        "y": -908
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 116.67165184020996,
+      "datetime": "2025-08-03T09:53:12.175691",
+      "position": {
+        "x": 928,
+        "y": -908
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 117.19439578056335,
+      "datetime": "2025-08-03T09:53:12.698436",
+      "position": {
+        "x": 943,
+        "y": -896
+      },
+      "movement": {
+        "dx": 15,
+        "dy": 12
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 117.29824376106262,
+      "datetime": "2025-08-03T09:53:12.802283",
+      "position": {
+        "x": 970,
+        "y": -879
+      },
+      "movement": {
+        "dx": 27,
+        "dy": 17
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 117.40338587760925,
+      "datetime": "2025-08-03T09:53:12.907424",
+      "position": {
+        "x": 994,
+        "y": -867
+      },
+      "movement": {
+        "dx": 24,
+        "dy": 12
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 117.50849175453186,
+      "datetime": "2025-08-03T09:53:13.012531",
+      "position": {
+        "x": 1008,
+        "y": -856
+      },
+      "movement": {
+        "dx": 14,
+        "dy": 11
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 117.61099696159363,
+      "datetime": "2025-08-03T09:53:13.115035",
+      "position": {
+        "x": 1014,
+        "y": -840
+      },
+      "movement": {
+        "dx": 6,
+        "dy": 16
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 117.71617794036865,
+      "datetime": "2025-08-03T09:53:13.220222",
+      "position": {
+        "x": 1025,
+        "y": -828
+      },
+      "movement": {
+        "dx": 11,
+        "dy": 12
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 118.43959403038025,
+      "datetime": "2025-08-03T09:53:13.943632",
+      "position": {
+        "x": 1031,
+        "y": -827
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 118.5444188117981,
+      "datetime": "2025-08-03T09:53:14.048457",
+      "position": {
+        "x": 1031,
+        "y": -827
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 125.82739090919495,
+      "datetime": "2025-08-03T09:53:21.331430",
+      "position": {
+        "x": 1061,
+        "y": -826
+      },
+      "movement": {
+        "dx": 30,
+        "dy": 1
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 125.92812275886536,
+      "datetime": "2025-08-03T09:53:21.432162",
+      "position": {
+        "x": 1091,
+        "y": -805
+      },
+      "movement": {
+        "dx": 30,
+        "dy": 21
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 126.23920392990112,
+      "datetime": "2025-08-03T09:53:21.743242",
+      "position": {
+        "x": 1143,
+        "y": -798
+      },
+      "movement": {
+        "dx": 46,
+        "dy": 5
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 126.34402585029602,
+      "datetime": "2025-08-03T09:53:21.848066",
+      "position": {
+        "x": 1157,
+        "y": -800
+      },
+      "movement": {
+        "dx": 14,
+        "dy": 2
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 126.85760283470154,
+      "datetime": "2025-08-03T09:53:22.361642",
+      "position": {
+        "x": 1147,
+        "y": -789
+      },
+      "movement": {
+        "dx": 10,
+        "dy": 11
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 126.96065163612366,
+      "datetime": "2025-08-03T09:53:22.464690",
+      "position": {
+        "x": 1136,
+        "y": -777
+      },
+      "movement": {
+        "dx": 11,
+        "dy": 12
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 127.1709258556366,
+      "datetime": "2025-08-03T09:53:22.674965",
+      "position": {
+        "x": 1114,
+        "y": -769
+      },
+      "movement": {
+        "dx": 17,
+        "dy": 6
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 127.37721395492554,
+      "datetime": "2025-08-03T09:53:22.881253",
+      "position": {
+        "x": 1114,
+        "y": -769
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 127.47920799255371,
+      "datetime": "2025-08-03T09:53:22.983247",
+      "position": {
+        "x": 1114,
+        "y": -769
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 127.79106378555298,
+      "datetime": "2025-08-03T09:53:23.295103",
+      "position": {
+        "x": 1142,
+        "y": -778
+      },
+      "movement": {
+        "dx": 23,
+        "dy": 7
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 128.0007848739624,
+      "datetime": "2025-08-03T09:53:23.504824",
+      "position": {
+        "x": 1142,
+        "y": -778
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 128.1059489250183,
+      "datetime": "2025-08-03T09:53:23.609989",
+      "position": {
+        "x": 1142,
+        "y": -778
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 129.99018502235413,
+      "datetime": "2025-08-03T09:53:25.494225",
+      "position": {
+        "x": 1168,
+        "y": -773
+      },
+      "movement": {
+        "dx": 26,
+        "dy": 5
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 130.0951747894287,
+      "datetime": "2025-08-03T09:53:25.599213",
+      "position": {
+        "x": 1189,
+        "y": -772
+      },
+      "movement": {
+        "dx": 21,
+        "dy": 1
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 131.1438217163086,
+      "datetime": "2025-08-03T09:53:26.647862",
+      "position": {
+        "x": 1246,
+        "y": -765
+      },
+      "movement": {
+        "dx": 71,
+        "dy": 27
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 131.2489788532257,
+      "datetime": "2025-08-03T09:53:26.753017",
+      "position": {
+        "x": 1298,
+        "y": -758
+      },
+      "movement": {
+        "dx": 52,
+        "dy": 7
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 131.45503067970276,
+      "datetime": "2025-08-03T09:53:26.959070",
+      "position": {
+        "x": 1300,
+        "y": -760
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 131.5602240562439,
+      "datetime": "2025-08-03T09:53:27.064263",
+      "position": {
+        "x": 1300,
+        "y": -760
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 131.97704672813416,
+      "datetime": "2025-08-03T09:53:27.481086",
+      "position": {
+        "x": 1347,
+        "y": -673
+      },
+      "movement": {
+        "dx": 47,
+        "dy": 87
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 132.08221292495728,
+      "datetime": "2025-08-03T09:53:27.586252",
+      "position": {
+        "x": 1380,
+        "y": -631
+      },
+      "movement": {
+        "dx": 33,
+        "dy": 42
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 132.1860408782959,
+      "datetime": "2025-08-03T09:53:27.690080",
+      "position": {
+        "x": 1390,
+        "y": -614
+      },
+      "movement": {
+        "dx": 10,
+        "dy": 17
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 132.29116988182068,
+      "datetime": "2025-08-03T09:53:27.795209",
+      "position": {
+        "x": 1402,
+        "y": -586
+      },
+      "movement": {
+        "dx": 12,
+        "dy": 28
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 132.39489579200745,
+      "datetime": "2025-08-03T09:53:27.898935",
+      "position": {
+        "x": 1407,
+        "y": -573
+      },
+      "movement": {
+        "dx": 5,
+        "dy": 13
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 134.58160495758057,
+      "datetime": "2025-08-03T09:53:30.085643",
+      "position": {
+        "x": 1428,
+        "y": -552
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 134.6872959136963,
+      "datetime": "2025-08-03T09:53:30.191335",
+      "position": {
+        "x": 1428,
+        "y": -552
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 135.31034874916077,
+      "datetime": "2025-08-03T09:53:30.814387",
+      "position": {
+        "x": 1253,
+        "y": -761
+      },
+      "movement": {
+        "dx": 173,
+        "dy": 203
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 135.41542792320251,
+      "datetime": "2025-08-03T09:53:30.919466",
+      "position": {
+        "x": 1201,
+        "y": -851
+      },
+      "movement": {
+        "dx": 52,
+        "dy": 90
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 135.62581086158752,
+      "datetime": "2025-08-03T09:53:31.129850",
+      "position": {
+        "x": 1190,
+        "y": -899
+      },
+      "movement": {
+        "dx": 13,
+        "dy": 46
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 135.72696685791016,
+      "datetime": "2025-08-03T09:53:31.231007",
+      "position": {
+        "x": 1175,
+        "y": -924
+      },
+      "movement": {
+        "dx": 15,
+        "dy": 25
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 135.93722987174988,
+      "datetime": "2025-08-03T09:53:31.441269",
+      "position": {
+        "x": 1172,
+        "y": -942
+      },
+      "movement": {
+        "dx": 1,
+        "dy": 11
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 136.9837429523468,
+      "datetime": "2025-08-03T09:53:32.487783",
+      "position": {
+        "x": 1163,
+        "y": -957
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 137.0889549255371,
+      "datetime": "2025-08-03T09:53:32.592994",
+      "position": {
+        "x": 1163,
+        "y": -957
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 137.92779397964478,
+      "datetime": "2025-08-03T09:53:33.431833",
+      "position": {
+        "x": 1135,
+        "y": -969
+      },
+      "movement": {
+        "dx": 28,
+        "dy": 12
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 138.03288984298706,
+      "datetime": "2025-08-03T09:53:33.536929",
+      "position": {
+        "x": 1035,
+        "y": -990
+      },
+      "movement": {
+        "dx": 100,
+        "dy": 21
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 138.44572591781616,
+      "datetime": "2025-08-03T09:53:33.949764",
+      "position": {
+        "x": 1015,
+        "y": -1006
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 138.55015778541565,
+      "datetime": "2025-08-03T09:53:34.054197",
+      "position": {
+        "x": 1095,
+        "y": -1010
+      },
+      "movement": {
+        "dx": 80,
+        "dy": 4
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 138.65523266792297,
+      "datetime": "2025-08-03T09:53:34.159272",
+      "position": {
+        "x": 1203,
+        "y": -1016
+      },
+      "movement": {
+        "dx": 108,
+        "dy": 6
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 138.76015782356262,
+      "datetime": "2025-08-03T09:53:34.264197",
+      "position": {
+        "x": 1292,
+        "y": -1019
+      },
+      "movement": {
+        "dx": 89,
+        "dy": 3
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 138.86524081230164,
+      "datetime": "2025-08-03T09:53:34.369281",
+      "position": {
+        "x": 1339,
+        "y": -1020
+      },
+      "movement": {
+        "dx": 47,
+        "dy": 1
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 139.07503271102905,
+      "datetime": "2025-08-03T09:53:34.579071",
+      "position": {
+        "x": 1339,
+        "y": -1020
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 139.17826104164124,
+      "datetime": "2025-08-03T09:53:34.682299",
+      "position": {
+        "x": 1261,
+        "y": -1002
+      },
+      "movement": {
+        "dx": 78,
+        "dy": 18
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 139.28185176849365,
+      "datetime": "2025-08-03T09:53:34.785892",
+      "position": {
+        "x": 1242,
+        "y": -999
+      },
+      "movement": {
+        "dx": 19,
+        "dy": 3
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 139.4922697544098,
+      "datetime": "2025-08-03T09:53:34.996309",
+      "position": {
+        "x": 1234,
+        "y": -996
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 139.59593081474304,
+      "datetime": "2025-08-03T09:53:35.099970",
+      "position": {
+        "x": 1234,
+        "y": -996
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 143.88912677764893,
+      "datetime": "2025-08-03T09:53:39.393166",
+      "position": {
+        "x": 1249,
+        "y": -968
+      },
+      "movement": {
+        "dx": 15,
+        "dy": 28
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 143.9932508468628,
+      "datetime": "2025-08-03T09:53:39.497290",
+      "position": {
+        "x": 1273,
+        "y": -893
+      },
+      "movement": {
+        "dx": 24,
+        "dy": 75
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 144.09543871879578,
+      "datetime": "2025-08-03T09:53:39.599478",
+      "position": {
+        "x": 1266,
+        "y": -838
+      },
+      "movement": {
+        "dx": 7,
+        "dy": 55
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 144.2006049156189,
+      "datetime": "2025-08-03T09:53:39.704644",
+      "position": {
+        "x": 1254,
+        "y": -812
+      },
+      "movement": {
+        "dx": 12,
+        "dy": 26
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 144.303307056427,
+      "datetime": "2025-08-03T09:53:39.807354",
+      "position": {
+        "x": 1236,
+        "y": -772
+      },
+      "movement": {
+        "dx": 18,
+        "dy": 40
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 144.9265947341919,
+      "datetime": "2025-08-03T09:53:40.430634",
+      "position": {
+        "x": 1234,
+        "y": -771
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 145.03175973892212,
+      "datetime": "2025-08-03T09:53:40.535798",
+      "position": {
+        "x": 1234,
+        "y": -771
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 145.24315690994263,
+      "datetime": "2025-08-03T09:53:40.747195",
+      "position": {
+        "x": 1205,
+        "y": -830
+      },
+      "movement": {
+        "dx": 29,
+        "dy": 59
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 145.34818696975708,
+      "datetime": "2025-08-03T09:53:40.852226",
+      "position": {
+        "x": 1185,
+        "y": -871
+      },
+      "movement": {
+        "dx": 20,
+        "dy": 41
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 145.45330691337585,
+      "datetime": "2025-08-03T09:53:40.957347",
+      "position": {
+        "x": 1175,
+        "y": -899
+      },
+      "movement": {
+        "dx": 10,
+        "dy": 28
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 145.55579280853271,
+      "datetime": "2025-08-03T09:53:41.059832",
+      "position": {
+        "x": 1171,
+        "y": -921
+      },
+      "movement": {
+        "dx": 4,
+        "dy": 22
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 146.39275193214417,
+      "datetime": "2025-08-03T09:53:41.896791",
+      "position": {
+        "x": 1163,
+        "y": -931
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 146.49317479133606,
+      "datetime": "2025-08-03T09:53:41.997213",
+      "position": {
+        "x": 1163,
+        "y": -931
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 147.2259328365326,
+      "datetime": "2025-08-03T09:53:42.729972",
+      "position": {
+        "x": 1028,
+        "y": -966
+      },
+      "movement": {
+        "dx": 126,
+        "dy": 27
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 147.3287229537964,
+      "datetime": "2025-08-03T09:53:42.832762",
+      "position": {
+        "x": 994,
+        "y": -976
+      },
+      "movement": {
+        "dx": 34,
+        "dy": 10
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 147.43379878997803,
+      "datetime": "2025-08-03T09:53:42.937838",
+      "position": {
+        "x": 982,
+        "y": -981
+      },
+      "movement": {
+        "dx": 12,
+        "dy": 5
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 147.53894686698914,
+      "datetime": "2025-08-03T09:53:43.042986",
+      "position": {
+        "x": 966,
+        "y": -979
+      },
+      "movement": {
+        "dx": 16,
+        "dy": 2
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 147.64478278160095,
+      "datetime": "2025-08-03T09:53:43.148821",
+      "position": {
+        "x": 953,
+        "y": -979
+      },
+      "movement": {
+        "dx": 13,
+        "dy": 0
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 147.85501289367676,
+      "datetime": "2025-08-03T09:53:43.359052",
+      "position": {
+        "x": 941,
+        "y": -937
+      },
+      "movement": {
+        "dx": 9,
+        "dy": 41
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 147.95613598823547,
+      "datetime": "2025-08-03T09:53:43.460174",
+      "position": {
+        "x": 942,
+        "y": -839
+      },
+      "movement": {
+        "dx": 1,
+        "dy": 98
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 148.05992674827576,
+      "datetime": "2025-08-03T09:53:43.563965",
+      "position": {
+        "x": 941,
+        "y": -803
+      },
+      "movement": {
+        "dx": 1,
+        "dy": 36
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 150.3517599105835,
+      "datetime": "2025-08-03T09:53:45.855799",
+      "position": {
+        "x": 955,
+        "y": -793
+      },
+      "movement": {
+        "dx": 8,
+        "dy": 19
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 153.06159377098083,
+      "datetime": "2025-08-03T09:53:48.565642",
+      "position": {
+        "x": 946,
+        "y": -838
+      },
+      "movement": {
+        "dx": 20,
+        "dy": 48
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 153.16670083999634,
+      "datetime": "2025-08-03T09:53:48.670740",
+      "position": {
+        "x": 922,
+        "y": -889
+      },
+      "movement": {
+        "dx": 24,
+        "dy": 51
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 153.26728582382202,
+      "datetime": "2025-08-03T09:53:48.771325",
+      "position": {
+        "x": 918,
+        "y": -904
+      },
+      "movement": {
+        "dx": 4,
+        "dy": 15
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 153.37238097190857,
+      "datetime": "2025-08-03T09:53:48.876419",
+      "position": {
+        "x": 900,
+        "y": -948
+      },
+      "movement": {
+        "dx": 18,
+        "dy": 44
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 153.89313888549805,
+      "datetime": "2025-08-03T09:53:49.397177",
+      "position": {
+        "x": 895,
+        "y": -971
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 153.99835872650146,
+      "datetime": "2025-08-03T09:53:49.502398",
+      "position": {
+        "x": 895,
+        "y": -971
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 154.42237281799316,
+      "datetime": "2025-08-03T09:53:49.926412",
+      "position": {
+        "x": 895,
+        "y": -974
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 154.5257978439331,
+      "datetime": "2025-08-03T09:53:50.029837",
+      "position": {
+        "x": 895,
+        "y": -974
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 157.224102973938,
+      "datetime": "2025-08-03T09:53:52.728142",
+      "position": {
+        "x": 923,
+        "y": -867
+      },
+      "movement": {
+        "dx": 28,
+        "dy": 106
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 157.32586288452148,
+      "datetime": "2025-08-03T09:53:52.829903",
+      "position": {
+        "x": 930,
+        "y": -841
+      },
+      "movement": {
+        "dx": 7,
+        "dy": 26
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 157.94780492782593,
+      "datetime": "2025-08-03T09:53:53.451845",
+      "position": {
+        "x": 922,
+        "y": -869
+      },
+      "movement": {
+        "dx": 2,
+        "dy": 14
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 158.4664478302002,
+      "datetime": "2025-08-03T09:53:53.970487",
+      "position": {
+        "x": 930,
+        "y": -862
+      },
+      "movement": {
+        "dx": 13,
+        "dy": 31
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 158.5715627670288,
+      "datetime": "2025-08-03T09:53:54.075602",
+      "position": {
+        "x": 944,
+        "y": -811
+      },
+      "movement": {
+        "dx": 14,
+        "dy": 51
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 158.67665481567383,
+      "datetime": "2025-08-03T09:53:54.180694",
+      "position": {
+        "x": 945,
+        "y": -799
+      },
+      "movement": {
+        "dx": 1,
+        "dy": 12
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 158.99269366264343,
+      "datetime": "2025-08-03T09:53:54.496733",
+      "position": {
+        "x": 945,
+        "y": -825
+      },
+      "movement": {
+        "dx": 1,
+        "dy": 29
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 159.09746098518372,
+      "datetime": "2025-08-03T09:53:54.601501",
+      "position": {
+        "x": 942,
+        "y": -837
+      },
+      "movement": {
+        "dx": 3,
+        "dy": 12
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 159.19906783103943,
+      "datetime": "2025-08-03T09:53:54.703107",
+      "position": {
+        "x": 936,
+        "y": -854
+      },
+      "movement": {
+        "dx": 6,
+        "dy": 17
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 159.30541276931763,
+      "datetime": "2025-08-03T09:53:54.809452",
+      "position": {
+        "x": 930,
+        "y": -870
+      },
+      "movement": {
+        "dx": 6,
+        "dy": 16
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 159.40929174423218,
+      "datetime": "2025-08-03T09:53:54.913332",
+      "position": {
+        "x": 923,
+        "y": -882
+      },
+      "movement": {
+        "dx": 7,
+        "dy": 12
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 160.03114676475525,
+      "datetime": "2025-08-03T09:53:55.535186",
+      "position": {
+        "x": 913,
+        "y": -902
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 160.1379590034485,
+      "datetime": "2025-08-03T09:53:55.641998",
+      "position": {
+        "x": 913,
+        "y": -902
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 160.76703596115112,
+      "datetime": "2025-08-03T09:53:56.271075",
+      "position": {
+        "x": 952,
+        "y": -869
+      },
+      "movement": {
+        "dx": 39,
+        "dy": 33
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 160.8721878528595,
+      "datetime": "2025-08-03T09:53:56.376227",
+      "position": {
+        "x": 1019,
+        "y": -799
+      },
+      "movement": {
+        "dx": 67,
+        "dy": 70
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 160.97591876983643,
+      "datetime": "2025-08-03T09:53:56.479958",
+      "position": {
+        "x": 1037,
+        "y": -780
+      },
+      "movement": {
+        "dx": 18,
+        "dy": 19
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 161.28478384017944,
+      "datetime": "2025-08-03T09:53:56.788823",
+      "position": {
+        "x": 1054,
+        "y": -795
+      },
+      "movement": {
+        "dx": 10,
+        "dy": 15
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 161.38713884353638,
+      "datetime": "2025-08-03T09:53:56.891178",
+      "position": {
+        "x": 1060,
+        "y": -813
+      },
+      "movement": {
+        "dx": 6,
+        "dy": 18
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 161.90691089630127,
+      "datetime": "2025-08-03T09:53:57.410950",
+      "position": {
+        "x": 1070,
+        "y": -829
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 162.01214790344238,
+      "datetime": "2025-08-03T09:53:57.516187",
+      "position": {
+        "x": 1070,
+        "y": -829
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 164.004567861557,
+      "datetime": "2025-08-03T09:53:59.508607",
+      "position": {
+        "x": 1140,
+        "y": -840
+      },
+      "movement": {
+        "dx": 70,
+        "dy": 11
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 164.10850882530212,
+      "datetime": "2025-08-03T09:53:59.612549",
+      "position": {
+        "x": 1161,
+        "y": -841
+      },
+      "movement": {
+        "dx": 21,
+        "dy": 1
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 164.42313194274902,
+      "datetime": "2025-08-03T09:53:59.927171",
+      "position": {
+        "x": 1130,
+        "y": -835
+      },
+      "movement": {
+        "dx": 32,
+        "dy": 4
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 165.0453336238861,
+      "datetime": "2025-08-03T09:54:00.549373",
+      "position": {
+        "x": 1177,
+        "y": -829
+      },
+      "movement": {
+        "dx": 39,
+        "dy": 4
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 165.35911083221436,
+      "datetime": "2025-08-03T09:54:00.863150",
+      "position": {
+        "x": 1192,
+        "y": -834
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 165.46045875549316,
+      "datetime": "2025-08-03T09:54:00.964498",
+      "position": {
+        "x": 1192,
+        "y": -834
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 166.4969129562378,
+      "datetime": "2025-08-03T09:54:02.000952",
+      "position": {
+        "x": 1207,
+        "y": -837
+      },
+      "movement": {
+        "dx": 15,
+        "dy": 3
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 166.8084647655487,
+      "datetime": "2025-08-03T09:54:02.312504",
+      "position": {
+        "x": 1214,
+        "y": -836
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 166.9110107421875,
+      "datetime": "2025-08-03T09:54:02.415050",
+      "position": {
+        "x": 1128,
+        "y": -840
+      },
+      "movement": {
+        "dx": 86,
+        "dy": 4
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 167.01532292366028,
+      "datetime": "2025-08-03T09:54:02.519361",
+      "position": {
+        "x": 1127,
+        "y": -840
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 169.317462682724,
+      "datetime": "2025-08-03T09:54:04.821503",
+      "position": {
+        "x": 1172,
+        "y": -840
+      },
+      "movement": {
+        "dx": 42,
+        "dy": 1
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 169.42143988609314,
+      "datetime": "2025-08-03T09:54:04.925479",
+      "position": {
+        "x": 1155,
+        "y": -817
+      },
+      "movement": {
+        "dx": 17,
+        "dy": 23
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 169.83348894119263,
+      "datetime": "2025-08-03T09:54:05.337528",
+      "position": {
+        "x": 1143,
+        "y": -812
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 169.93815994262695,
+      "datetime": "2025-08-03T09:54:05.442203",
+      "position": {
+        "x": 1143,
+        "y": -812
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 170.353857755661,
+      "datetime": "2025-08-03T09:54:05.857897",
+      "position": {
+        "x": 1191,
+        "y": -688
+      },
+      "movement": {
+        "dx": 48,
+        "dy": 124
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 170.4588119983673,
+      "datetime": "2025-08-03T09:54:05.962851",
+      "position": {
+        "x": 1208,
+        "y": -640
+      },
+      "movement": {
+        "dx": 17,
+        "dy": 48
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 170.5639009475708,
+      "datetime": "2025-08-03T09:54:06.067940",
+      "position": {
+        "x": 1215,
+        "y": -626
+      },
+      "movement": {
+        "dx": 7,
+        "dy": 14
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 170.66901683807373,
+      "datetime": "2025-08-03T09:54:06.173056",
+      "position": {
+        "x": 1228,
+        "y": -595
+      },
+      "movement": {
+        "dx": 13,
+        "dy": 31
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 170.76992082595825,
+      "datetime": "2025-08-03T09:54:06.273959",
+      "position": {
+        "x": 1229,
+        "y": -577
+      },
+      "movement": {
+        "dx": 1,
+        "dy": 18
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 171.18265986442566,
+      "datetime": "2025-08-03T09:54:06.686698",
+      "position": {
+        "x": 1230,
+        "y": -567
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 171.28784680366516,
+      "datetime": "2025-08-03T09:54:06.791886",
+      "position": {
+        "x": 1230,
+        "y": -567
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 174.93456387519836,
+      "datetime": "2025-08-03T09:54:10.438603",
+      "position": {
+        "x": 1114,
+        "y": -422
+      },
+      "movement": {
+        "dx": 116,
+        "dy": 145
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 175.03837275505066,
+      "datetime": "2025-08-03T09:54:10.542412",
+      "position": {
+        "x": 760,
+        "y": 29
+      },
+      "movement": {
+        "dx": 354,
+        "dy": 451
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 175.14326786994934,
+      "datetime": "2025-08-03T09:54:10.647308",
+      "position": {
+        "x": 681,
+        "y": 123
+      },
+      "movement": {
+        "dx": 79,
+        "dy": 94
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 175.2452278137207,
+      "datetime": "2025-08-03T09:54:10.749267",
+      "position": {
+        "x": 625,
+        "y": 223
+      },
+      "movement": {
+        "dx": 56,
+        "dy": 100
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 175.35539984703064,
+      "datetime": "2025-08-03T09:54:10.859445",
+      "position": {
+        "x": 365,
+        "y": 457
+      },
+      "movement": {
+        "dx": 260,
+        "dy": 234
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 175.45692491531372,
+      "datetime": "2025-08-03T09:54:10.960965",
+      "position": {
+        "x": 160,
+        "y": 630
+      },
+      "movement": {
+        "dx": 205,
+        "dy": 173
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 175.55865669250488,
+      "datetime": "2025-08-03T09:54:11.062696",
+      "position": {
+        "x": 150,
+        "y": 671
+      },
+      "movement": {
+        "dx": 10,
+        "dy": 41
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 175.7648708820343,
+      "datetime": "2025-08-03T09:54:11.268910",
+      "position": {
+        "x": 205,
+        "y": 646
+      },
+      "movement": {
+        "dx": 55,
+        "dy": 27
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 175.87031769752502,
+      "datetime": "2025-08-03T09:54:11.374357",
+      "position": {
+        "x": 225,
+        "y": 643
+      },
+      "movement": {
+        "dx": 20,
+        "dy": 3
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 175.97497868537903,
+      "datetime": "2025-08-03T09:54:11.479019",
+      "position": {
+        "x": 238,
+        "y": 642
+      },
+      "movement": {
+        "dx": 13,
+        "dy": 1
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 176.39099192619324,
+      "datetime": "2025-08-03T09:54:11.895032",
+      "position": {
+        "x": 248,
+        "y": 633
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 176.49668264389038,
+      "datetime": "2025-08-03T09:54:12.000722",
+      "position": {
+        "x": 248,
+        "y": 633
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    }
+  ],
+  "keyboard_events": [
+    {
+      "datetime": "2025-08-03T09:51:25.087916",
+      "source": "enhanced_keyboard_logger",
+      "type": "app_switch",
+      "from_app": "Python",
+      "to_app": "RmiLoader",
+      "timestamp": 1754207485.0879092,
+      "inferred_shortcut": "Cmd+Tab or mouse click"
+    },
+    {
+      "datetime": "2025-08-03T09:51:26.358116",
+      "source": "enhanced_keyboard_logger",
+      "type": "modifier_change",
+      "modifiers": [],
+      "timestamp": 1754207486.358092,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:27.020339",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 46,
+      "key_name": "m",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207487.0203142,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:27.353219",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 32,
+      "key_name": "u",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207487.353188,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:27.600942",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 15,
+      "key_name": "r",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207487.6009128,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:27.676472",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 14,
+      "key_name": "e",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207487.676453,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:27.963442",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 7,
+      "key_name": "x",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207487.963425,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:28.166567",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 3,
+      "key_name": "f",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207488.166528,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:28.305214",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 31,
+      "key_name": "o",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207488.3051891,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:29.620682",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 48,
+      "key_name": "Tab",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": true,
+      "timestamp": 1754207489.620647,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:29.732666",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_release",
+      "key_code": 48,
+      "key_name": "Tab",
+      "modifiers": [],
+      "timestamp": 1754207489.7326431,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:30.508308",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 46,
+      "key_name": "m",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207490.5082839,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:30.754585",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 32,
+      "key_name": "u",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207490.75455,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:30.954442",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 15,
+      "key_name": "r",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207490.9544,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:31.091820",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 14,
+      "key_name": "e",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207491.091795,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:31.531400",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 7,
+      "key_name": "x",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207491.5313752,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:48.201317",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 11,
+      "key_name": "b",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207508.2012959,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:48.201332",
+      "source": "enhanced_keyboard_logger",
+      "type": "typing_session_end",
+      "key_count": 13,
+      "duration": 4.511060953140259,
+      "typing_speed": 2.881805441123642,
+      "timestamp": 1754207508.2012959
+    },
+    {
+      "datetime": "2025-08-03T09:51:48.521512",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 31,
+      "key_name": "o",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207508.521475,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:48.819669",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 45,
+      "key_name": "n",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207508.819648,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:49.018776",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 2,
+      "key_name": "d",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207509.0187578,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:51:49.409833",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 1,
+      "key_name": "s",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207509.409808,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:12.161837",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 1,
+      "key_name": "s",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207532.161814,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:12.386134",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 0,
+      "key_name": "a",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207532.386079,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:13.230437",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 5,
+      "key_name": "g",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207533.230413,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:13.486557",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 11,
+      "key_name": "b",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207533.486529,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:13.754584",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 49,
+      "key_name": "Space",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": true,
+      "timestamp": 1754207533.75456,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:14.447420",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 23,
+      "key_name": "5",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207534.4473972,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:14.581485",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 22,
+      "key_name": "6",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207534.581462,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:14.721460",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 23,
+      "key_name": "5",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207534.7214348,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:14.897165",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 26,
+      "key_name": "7",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207534.897144,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:15.040452",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 23,
+      "key_name": "5",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207535.040429,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:15.120440",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 26,
+      "key_name": "7",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207535.12042,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:15.163640",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 22,
+      "key_name": "6",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207535.1636171,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:30.436170",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 1,
+      "key_name": "s",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207550.4361331,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:30.436202",
+      "source": "enhanced_keyboard_logger",
+      "type": "typing_session_end",
+      "key_count": 12,
+      "duration": 3.001803159713745,
+      "typing_speed": 3.9975972312402828,
+      "timestamp": 1754207550.4361331
+    },
+    {
+      "datetime": "2025-08-03T09:52:30.667279",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 0,
+      "key_name": "a",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207550.66725,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:30.871577",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 5,
+      "key_name": "g",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207550.871553,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:31.139102",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 11,
+      "key_name": "b",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207551.139081,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:32.178165",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 49,
+      "key_name": "Space",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": true,
+      "timestamp": 1754207552.178143,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:32.900714",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 23,
+      "key_name": "5",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207552.9006898,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:33.164003",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 22,
+      "key_name": "6",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207553.163935,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:34.145904",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 23,
+      "key_name": "5",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207554.1458812,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:34.994935",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 26,
+      "key_name": "7",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207554.994912,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:35.781057",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 23,
+      "key_name": "5",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207555.781035,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:36.866887",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 26,
+      "key_name": "7",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207556.866849,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:37.354021",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 22,
+      "key_name": "6",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207557.353996,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:53.850115",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 18,
+      "key_name": "1",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207573.850079,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:53.850130",
+      "source": "enhanced_keyboard_logger",
+      "type": "typing_session_end",
+      "key_count": 12,
+      "duration": 6.917862892150879,
+      "typing_speed": 1.7346397561037814,
+      "timestamp": 1754207573.850079
+    },
+    {
+      "datetime": "2025-08-03T09:52:54.254885",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 29,
+      "key_name": "0",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207574.254859,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:54.634666",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 29,
+      "key_name": "0",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207574.634592,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:55.156188",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 29,
+      "key_name": "0",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207575.156151,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:56.068011",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 29,
+      "key_name": "0",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207576.06799,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:56.382845",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 29,
+      "key_name": "0",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207576.382816,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:52:56.735294",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 29,
+      "key_name": "0",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207576.735272,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:06.460212",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 6,
+      "key_name": "z",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207586.4601831,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:06.460227",
+      "source": "enhanced_keyboard_logger",
+      "type": "typing_session_end",
+      "key_count": 7,
+      "duration": 2.88519287109375,
+      "typing_speed": 2.4261809566118764,
+      "timestamp": 1754207586.4601831
+    },
+    {
+      "datetime": "2025-08-03T09:53:06.652057",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 0,
+      "key_name": "a",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207586.652033,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:06.979341",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 15,
+      "key_name": "r",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207586.9793139,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:07.216959",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 49,
+      "key_name": "Space",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": true,
+      "timestamp": 1754207587.216938,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:08.083071",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 36,
+      "key_name": "Return",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": true,
+      "timestamp": 1754207588.083047,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:08.225177",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_release",
+      "key_code": 36,
+      "key_name": "Return",
+      "modifiers": [],
+      "timestamp": 1754207588.22516,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:16.673369",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 19,
+      "key_name": "2",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207596.6733499,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:17.110525",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 29,
+      "key_name": "0",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207597.110503,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:17.525909",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 49,
+      "key_name": "Space",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": true,
+      "timestamp": 1754207597.5258849,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:18.016737",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 45,
+      "key_name": "n",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207598.016711,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:18.310330",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 31,
+      "key_name": "o",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207598.310306,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:18.469116",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 9,
+      "key_name": "v",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207598.469097,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:18.809568",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 49,
+      "key_name": "Space",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": true,
+      "timestamp": 1754207598.8095438,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:19.526815",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 19,
+      "key_name": "2",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207599.52679,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:19.800578",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 29,
+      "key_name": "0",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207599.8005571,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:20.168846",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 20,
+      "key_name": "3",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207600.168818,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:20.502058",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 21,
+      "key_name": "4",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207600.502033,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:22.916903",
+      "source": "enhanced_keyboard_logger",
+      "type": "modifier_change",
+      "modifiers": [],
+      "timestamp": 1754207602.9168808,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:25.065308",
+      "source": "enhanced_keyboard_logger",
+      "type": "modifier_change",
+      "modifiers": [],
+      "timestamp": 1754207605.065284,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:25.065343",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 21,
+      "key_name": "4",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207605.0653281,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:25.065350",
+      "source": "enhanced_keyboard_logger",
+      "type": "typing_session_end",
+      "key_count": 11,
+      "duration": 3.8286831378936768,
+      "typing_speed": 2.8730504990422303,
+      "timestamp": 1754207605.0653281
+    },
+    {
+      "datetime": "2025-08-03T09:53:35.964000",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 6,
+      "key_name": "z",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207615.963964,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:36.293406",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 0,
+      "key_name": "a",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207616.29338,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:38.521619",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 36,
+      "key_name": "Return",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": true,
+      "timestamp": 1754207618.5216,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:38.606288",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_release",
+      "key_code": 36,
+      "key_name": "Return",
+      "modifiers": [],
+      "timestamp": 1754207618.606271,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:50.664986",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 11,
+      "key_name": "b",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207630.664955,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:50.888646",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 2,
+      "key_name": "d",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207630.888625,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:50.998017",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 49,
+      "key_name": "Space",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": true,
+      "timestamp": 1754207630.997992,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:51.243574",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 6,
+      "key_name": "z",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207631.24355,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:51.496283",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 0,
+      "key_name": "a",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207631.4962611,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:51.888488",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 36,
+      "key_name": "Return",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": true,
+      "timestamp": 1754207631.888463,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:53:51.976293",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_release",
+      "key_code": 36,
+      "key_name": "Return",
+      "modifiers": [],
+      "timestamp": 1754207631.9762719,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:54:02.889787",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 18,
+      "key_name": "1",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207642.889769,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:54:02.889798",
+      "source": "enhanced_keyboard_logger",
+      "type": "typing_session_end",
+      "key_count": 6,
+      "duration": 1.2235081195831299,
+      "typing_speed": 4.9039314933556,
+      "timestamp": 1754207642.889769
+    },
+    {
+      "datetime": "2025-08-03T09:54:03.116910",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 29,
+      "key_name": "0",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207643.116886,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:54:03.273874",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 29,
+      "key_name": "0",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207643.273849,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:54:03.424566",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 29,
+      "key_name": "0",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207643.424544,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:54:03.572865",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 29,
+      "key_name": "0",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207643.572839,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:54:03.732485",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 29,
+      "key_name": "0",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207643.732457,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:54:03.910998",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 29,
+      "key_name": "0",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754207643.910974,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-03T09:54:11.878204",
+      "source": "enhanced_keyboard_logger",
+      "type": "app_switch",
+      "from_app": "RmiLoader",
+      "to_app": "Python",
+      "timestamp": 1754207651.878201,
+      "inferred_shortcut": "Cmd+Tab or mouse click"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+# Complete Human-Readable RPA Commands Generated: 2025-08-03 09:45:29.246083
+# Source Video: enhanced_multiscreen_20250803_064201.mp4
+# Source JSON: enhanced_multiscreen_interactions_20250803_064519.json
+# Processing Mode: Complete Human-Readable Business Instructions
+# All 143 interactions captured in natural language
+# Session Duration: 198.5 seconds (complete)
+
+Here's a complete, natural language description of the 198.5-second workflow, paying special attention to the final steps and ensuring complete coverage of all interactions:
+
+1. **Login to Murex:** Access the Murex application and enter the username 'MUREXFO'.  (Note: The password is not provided in the data.) Click the 'Login' button. Select 'FO' from the user group selection screen and click 'Start'.
+
+2. **Navigate to Bonds:**  Navigate to the 'Bonds' section within the Murex application.
+
+3. **Create New Bond:** Click 'Edit' and then 'Insert' to initiate the creation of a new bond configuration.
+
+4. **Initial Bond Setup:**  In the 'Security' field, enter 'SAGB123456'. Select 'Fixed' as the 'Bond Type'. Select 'Mortgage' as the 'Collateral type'.  Select 'ZAR' in the 'Dual currency' field.  (Note: The specific selection within the 'Industry' dropdown is not provided in the data, but a selection is made.)
+
+5. **Market Data Entry:**  Navigate to the 'Market Data' section. Select 'ZAR' in the 'Currency' field.  (Note:  Multiple ZAR entries are made in different currency fields, but the exact fields are not specified in the provided data.)
+
+6. **Maturity and Coupon Rate:** Enter '6m' in the 'Maturity' field. Enter '5' in the 'Coupon %' field.
+
+7. **Internal Code Correction:** Enter '11' in the 'Internal code' field.  Then, delete the entry and re-enter '1m'.
+
+8. **Final Confirmation and Submission:** Click 'OK' to confirm the date selection. Click 'OK' to confirm all mandatory details. Click 'Process' to submit the bond configuration.
+
+9. **Post-Processing Actions:** The final steps involve additional clicks at coordinates (1511, 1138) and (304, 638), suggesting further actions within the Murex application after the initial bond creation is complete.  These actions are not fully described due to lack of context in the provided data.
+
+10. **Additional Data Entry (Likely Murex Specific):**  After a significant pause, the user types 'murexfo' followed by a TAB, then types 'murmurex' and presses ENTER.  This sequence is followed by three DELETE key presses, suggesting a correction.  Next, 'bondssagb123456sagb12345671m' is typed followed by a TAB, then a DELETE key press, indicating another correction.  Further entries are made: 'zar' + ENTER, '6m' + TAB, '5zar' + ENTER, 'za' + ENTER, 'za' + ENTER, '11' + TAB, DELETE key, and finally '1m' + TAB. These actions likely involve additional data entry and correction within specific Murex fields, but the exact fields are not identified in the provided data.
+
+
+**Important Note:**  The provided data lacks sufficient context to fully interpret the actions taken at specific coordinates and during the lengthy pauses.  To create a truly complete and accurate RPA command, additional information about the Murex application's interface and the purpose of each step is required.  The above workflow provides the best possible interpretation based on the limited data.

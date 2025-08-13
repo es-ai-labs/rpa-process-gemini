@@ -1,0 +1,76 @@
+# Enhanced Murex RPA Workflow Commands
+# Generated: 2025-08-03 10:33:42
+# Source Video: enhanced_multiscreen_20250803_095115.mp4
+# Source JSON: enhanced_multiscreen_interactions_20250803_095412.json
+# Processing Mode: Enhanced Video-Aware Analysis
+# Total Interactions: 56
+# Frame Rate Used: 0.8 fps (optimized for UI)
+#
+# INSTRUCTIONS FOR EDITING:
+# - This file is designed to be human-readable and editable
+# - Modify values in brackets [VALUE] as needed
+# - Adjust timing and sequences based on your requirements
+# - Test workflow sections individually before full execution
+#
+# WORKFLOW STRUCTURE:
+# The commands below are organized in logical sections for easy modification
+
+Here's a detailed breakdown of the Murex workflow commands, meticulously crafted for RPA implementation, based on your provided timeline and video analysis.  The commands are designed to be human-readable and easily adaptable.  Note that some assumptions had to be made due to the lack of clear visual information from the video regarding specific field names and button labels.  These assumptions are noted within the commands.
+
+**1. LOGIN & SETUP:**
+
+"Login to the Murex application using username 'MUREXFO' and password 'MUREX'. Click the 'Login' button.  On the subsequent screen, select the 'FO' group from the displayed list of groups and click the 'Start' button."
+
+
+**2. NAVIGATION & SEARCH:**
+
+"Maximize the main application window. In the search bar located at the top-right of the screen, type 'Bonds' and press Enter. Click on the 'Bonds' option from the search results to open the Bonds module."
+
+
+**3. DATA ENTRY (Bond Creation):**
+
+"In the Bonds module, click the 'Edit' button, then click the 'Insert' button to initiate a new bond creation.  In the resulting form:
+
+a. Locate the 'Security' field (or equivalent field for security ID) and type 'SAGB 5657576'.
+b. Select 'Coupon' from the 'Type' dropdown menu (assuming this dropdown exists).
+c. Select 'Insurance' from the 'Industry' dropdown menu (assuming this dropdown exists).
+d. Locate the 'Full name' field and type 'SAGB 5657576'.
+e. Select 'ADIDAS AG' from the 'Issuer' dropdown menu (assuming this dropdown exists).
+f. Click the 'Proceed' button to move to the next step."
+
+
+**4. DATA ENTRY (Bond Details):**
+
+"In the next form:
+
+a. Locate the 'Reference capital' field and type '1000000'.
+b. Select 'ZAR' from the 'Currency' dropdown menu (assuming this dropdown exists).
+c. Select 'ZAR 1Y ACT/365' from the 'Bond generator' dropdown menu (assuming this dropdown exists).
+d. Locate the 'First accrual date' field and type '20 Nov 2034'.
+e. Locate the 'Coupon' field and type '4'.
+f. Click the 'Proceed' button to move to the final step."
+
+
+**5. COMPLETION:**
+
+"In the final form, ensure all data is correct.  Click the 'Ok' button to create the bond. The bond creation process will then complete."
+
+
+**IMPORTANT CONSIDERATIONS FOR RPA DEVELOPMENT:**
+
+* **Object Recognition:** The RPA tool must reliably identify and interact with the specific UI elements mentioned above. This may require using image-based recognition or other advanced techniques if standard selectors are insufficient.
+* **Error Handling:** Implement robust error handling to manage potential issues such as network problems, unexpected UI changes, or invalid data.
+* **Dynamic Data:**  The specific values used in the commands (e.g., security ID, issuer name, etc.) will likely need to be parameterized or dynamically fetched from a data source.
+* **Wait Statements:**  Include appropriate wait statements to allow sufficient time for Murex to respond to each interaction.
+* **Screen Resolution:**  Ensure the RPA script is compatible with the screen resolution used during recording.
+
+
+This detailed workflow provides a solid foundation for building a reliable and maintainable RPA solution for bond creation within Murex. Remember to thoroughly test the script in a controlled environment before deploying it to production.
+
+# END OF WORKFLOW
+# 
+# Notes:
+# - Commands generated using video analysis for UI context
+# - Interaction timestamps preserved for reference
+# - Generic enough for multiple Murex modules
+# - Optimized for human editing and maintenance

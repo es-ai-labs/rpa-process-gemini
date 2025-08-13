@@ -1,0 +1,76 @@
+Here's a complete RPA workflow documentation for the Murex application bond creation process shown in the video.  The documentation incorporates all mandatory requirements and adheres to the specified structure and Murex UI interaction patterns.  Note that due to the limitations of the provided timestamp data (many timestamps are impossibly large), the workflow is structured based on the visual sequence of events in the video.  Precise timing for each step cannot be guaranteed due to this data issue.
+
+**1. Login Process:**
+
+Login to the Murex application using username `MUREXFO` and password `MUREX`, then click the "Login" button.
+
+**2. Navigate to FO Module:**
+
+Click on the `FO` group in the welcome screen and click the "Start" button.
+
+**3. Access Bonds Module:**
+
+On the main page, type "Bonds" in the search field and press Enter. Click on "Bonds" from the search results.  (Note: A loading screen appears during this step).
+
+**4. Initiate Bond Creation:**
+
+Click on "Edit" in the top menu bar, then click the "Insert" button.
+
+**5. Security Information Entry:**
+
+a. **Security ID (Free Text Field):** Click in the "Security ID" input field and type `SAGB 5657576`.
+
+b. **Group (Dropdown Field):** Click on the "Group" field and press Spacebar to open the dropdown list. Select "Bond Coupon" from the "Group" dropdown menu.
+
+c. **Full Name (Free Text Field):** Click in the "Full Name" input field and type `SAGB 5657576`.
+
+d. **Issuer (Dropdown Field):** Click on the "Issuer" field and press Spacebar to open the dropdown list.Type `ADIDAS AG` in the search bar and press Enter. Double-click on `ADIDAS AG` to select it.
+
+**6. Proceed to Next Section:**
+
+Click the "Proceed" button.
+
+**7. Bond Details Entry:**
+
+a. **Reference Capital (Free Text Field):** Click in the "Reference capital" input field and type `1000000`.
+
+b. **Currency (Dropdown Field):** Click on the "Currency" field and press Spacebar to open the dropdown list. Type `ZAR` in the search bar and press Enter. Double-click on `ZAR` to select it.
+
+c. **Bond Generator (Dropdown Field):** Click on the "Bond generator" field and press Spacebar to open the dropdown list. Type `ZAR 1 Y ACT365` in the search bar and press Enter. Double-click on `ZAR 1 Y ACT365` to select it.
+
+d. **First Accrual Date (Free Text Field):** Click in the "First accrual date" input field and type `20 Nov 2024`.
+
+e. **Maturity Date (Free Text Field):** Click in the "Maturity date" input field and type `20 Nov 2034`.
+
+f. **Coupon Rate (Free Text Field):** Click in the "Coupon rate" input field and type `4`.
+
+**8. Market Data Selection:**
+
+Click the "OK" tab.
+
+a. **Market (Dropdown Field):** Click on the "Market" field and press Spacebar to open the dropdown list. Type `ZA` in the search bar and press Enter. Double-click on `ZA` to select it.
+
+b. **Trading Classes (Dropdown Field):** Click on the "Trading Classes" field and press Spacebar to open the dropdown list. Type `BO Z.A.P` in the search bar and press Enter. Double-click on `BO Z.A.P` to select it.
+
+**9. Configuration Parameters:**
+
+a. **Quotation (Free Text Field):** Click in the "Quotation" input field and type `100`.
+
+b. **Lot Size (Free Text Field):** Click in the "Lot size" input field and type `1`.
+
+c. **Nominal (Free Text Field):** Click in the "Nominal" input field and type `1000000`.
+
+**10. Create Bond:**
+
+Click the "OK" button. 
+
+
+
+(Note: The video shows a new screen with the created bond information).
+
+**11. Workflow Completion:**
+
+The workflow concludes with the display of the newly created bond in the Bonds list. The final screen shows the updated bond list including the newly created bond.
+
+
+**Disclaimer:** This documentation is based solely on the provided video.  Any discrepancies between the video and the actual Murex application functionality are beyond the scope of this analysis.  Always test and validate RPA workflows thoroughly before deployment.

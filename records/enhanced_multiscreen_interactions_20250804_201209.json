@@ -1,0 +1,1868 @@
+{
+  "session_info": {
+    "platform": "Darwin",
+    "start_time": "2025-08-04T20:12:09.488611",
+    "duration": 21.206393003463745,
+    "interaction_count": 93,
+    "keyboard_event_count": 50,
+    "capture_method": "multiscreen_enhanced_fixed",
+    "features": {
+      "multi_screen_recording": true,
+      "visual_recording_highlight": true,
+      "enhanced_keyboard_logging": true,
+      "core_graphics_event_tap": true,
+      "mouse_tracking": true,
+      "click_detection": true,
+      "clipboard_monitoring": true,
+      "app_switching": true,
+      "typing_session_analysis": true,
+      "audio_video_integration": true
+    }
+  },
+  "mouse_interactions": [
+    {
+      "type": "mouse_move",
+      "timestamp": 0.7298891544342041,
+      "datetime": "2025-08-04T20:11:49.012131",
+      "position": {
+        "x": 631,
+        "y": 649
+      },
+      "movement": {
+        "dx": 47,
+        "dy": 14
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 0.8335480690002441,
+      "datetime": "2025-08-04T20:11:49.115791",
+      "position": {
+        "x": 862,
+        "y": 565
+      },
+      "movement": {
+        "dx": 231,
+        "dy": 84
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 1.0437099933624268,
+      "datetime": "2025-08-04T20:11:49.325953",
+      "position": {
+        "x": 884,
+        "y": 556
+      },
+      "movement": {
+        "dx": 18,
+        "dy": 1
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 1.146846055984497,
+      "datetime": "2025-08-04T20:11:49.429091",
+      "position": {
+        "x": 895,
+        "y": 549
+      },
+      "movement": {
+        "dx": 11,
+        "dy": 7
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 1.5605900287628174,
+      "datetime": "2025-08-04T20:11:49.842836",
+      "position": {
+        "x": 891,
+        "y": 542
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 1.6625850200653076,
+      "datetime": "2025-08-04T20:11:49.944826",
+      "position": {
+        "x": 891,
+        "y": 542
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 2.0803210735321045,
+      "datetime": "2025-08-04T20:11:50.362564",
+      "position": {
+        "x": 871,
+        "y": 535
+      },
+      "movement": {
+        "dx": 20,
+        "dy": 7
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 2.2905900478363037,
+      "datetime": "2025-08-04T20:11:50.572832",
+      "position": {
+        "x": 870,
+        "y": 746
+      },
+      "movement": {
+        "dx": 1,
+        "dy": 202
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 2.3957839012145996,
+      "datetime": "2025-08-04T20:11:50.678027",
+      "position": {
+        "x": 771,
+        "y": 945
+      },
+      "movement": {
+        "dx": 99,
+        "dy": 199
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 2.4965460300445557,
+      "datetime": "2025-08-04T20:11:50.778789",
+      "position": {
+        "x": 742,
+        "y": 992
+      },
+      "movement": {
+        "dx": 29,
+        "dy": 47
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 2.6017611026763916,
+      "datetime": "2025-08-04T20:11:50.884005",
+      "position": {
+        "x": 702,
+        "y": 1024
+      },
+      "movement": {
+        "dx": 40,
+        "dy": 32
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 2.805778980255127,
+      "datetime": "2025-08-04T20:11:51.088021",
+      "position": {
+        "x": 678,
+        "y": 1027
+      },
+      "movement": {
+        "dx": 15,
+        "dy": 1
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 4.4576029777526855,
+      "datetime": "2025-08-04T20:11:52.739845",
+      "position": {
+        "x": 689,
+        "y": 957
+      },
+      "movement": {
+        "dx": 9,
+        "dy": 67
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 4.558203220367432,
+      "datetime": "2025-08-04T20:11:52.840445",
+      "position": {
+        "x": 907,
+        "y": 585
+      },
+      "movement": {
+        "dx": 218,
+        "dy": 372
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 4.670105218887329,
+      "datetime": "2025-08-04T20:11:52.952345",
+      "position": {
+        "x": 622,
+        "y": 334
+      },
+      "movement": {
+        "dx": 285,
+        "dy": 251
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 4.777215957641602,
+      "datetime": "2025-08-04T20:11:53.059456",
+      "position": {
+        "x": 596,
+        "y": 346
+      },
+      "movement": {
+        "dx": 26,
+        "dy": 12
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 4.885646104812622,
+      "datetime": "2025-08-04T20:11:53.167887",
+      "position": {
+        "x": 732,
+        "y": 541
+      },
+      "movement": {
+        "dx": 136,
+        "dy": 195
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 4.990795135498047,
+      "datetime": "2025-08-04T20:11:53.273037",
+      "position": {
+        "x": 1227,
+        "y": 393
+      },
+      "movement": {
+        "dx": 495,
+        "dy": 148
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 5.095888137817383,
+      "datetime": "2025-08-04T20:11:53.378129",
+      "position": {
+        "x": 1325,
+        "y": 356
+      },
+      "movement": {
+        "dx": 98,
+        "dy": 37
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 5.21389102935791,
+      "datetime": "2025-08-04T20:11:53.496132",
+      "position": {
+        "x": 1104,
+        "y": 243
+      },
+      "movement": {
+        "dx": 221,
+        "dy": 113
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 5.318968057632446,
+      "datetime": "2025-08-04T20:11:53.601209",
+      "position": {
+        "x": 948,
+        "y": 143
+      },
+      "movement": {
+        "dx": 156,
+        "dy": 100
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 5.420696020126343,
+      "datetime": "2025-08-04T20:11:53.702937",
+      "position": {
+        "x": 897,
+        "y": 120
+      },
+      "movement": {
+        "dx": 51,
+        "dy": 23
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 5.521368026733398,
+      "datetime": "2025-08-04T20:11:53.803609",
+      "position": {
+        "x": 867,
+        "y": 103
+      },
+      "movement": {
+        "dx": 30,
+        "dy": 17
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 5.62645411491394,
+      "datetime": "2025-08-04T20:11:53.908695",
+      "position": {
+        "x": 751,
+        "y": 90
+      },
+      "movement": {
+        "dx": 116,
+        "dy": 13
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 5.831393003463745,
+      "datetime": "2025-08-04T20:11:54.113634",
+      "position": {
+        "x": 740,
+        "y": 74
+      },
+      "movement": {
+        "dx": 8,
+        "dy": 13
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 5.93581485748291,
+      "datetime": "2025-08-04T20:11:54.218056",
+      "position": {
+        "x": 738,
+        "y": 73
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 6.037117004394531,
+      "datetime": "2025-08-04T20:11:54.319358",
+      "position": {
+        "x": 814,
+        "y": 148
+      },
+      "movement": {
+        "dx": 76,
+        "dy": 75
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 6.148086071014404,
+      "datetime": "2025-08-04T20:11:54.430327",
+      "position": {
+        "x": 1012,
+        "y": 461
+      },
+      "movement": {
+        "dx": 198,
+        "dy": 313
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 6.253216028213501,
+      "datetime": "2025-08-04T20:11:54.535457",
+      "position": {
+        "x": 1028,
+        "y": 496
+      },
+      "movement": {
+        "dx": 16,
+        "dy": 35
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 6.358138084411621,
+      "datetime": "2025-08-04T20:11:54.640379",
+      "position": {
+        "x": 979,
+        "y": 418
+      },
+      "movement": {
+        "dx": 49,
+        "dy": 78
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 6.358157157897949,
+      "datetime": "2025-08-04T20:11:54.640397",
+      "position": {
+        "x": 979,
+        "y": 418
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 6.458666086196899,
+      "datetime": "2025-08-04T20:11:54.740907",
+      "position": {
+        "x": 655,
+        "y": 257
+      },
+      "movement": {
+        "dx": 324,
+        "dy": 161
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 6.563953876495361,
+      "datetime": "2025-08-04T20:11:54.846195",
+      "position": {
+        "x": 655,
+        "y": 241
+      },
+      "movement": {
+        "dx": 0,
+        "dy": 16
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 6.563988924026489,
+      "datetime": "2025-08-04T20:11:54.846228",
+      "position": {
+        "x": 655,
+        "y": 241
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 6.666971921920776,
+      "datetime": "2025-08-04T20:11:54.949212",
+      "position": {
+        "x": 655,
+        "y": 241
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 6.870416164398193,
+      "datetime": "2025-08-04T20:11:55.152657",
+      "position": {
+        "x": 641,
+        "y": 235
+      },
+      "movement": {
+        "dx": 14,
+        "dy": 6
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 7.077681064605713,
+      "datetime": "2025-08-04T20:11:55.359922",
+      "position": {
+        "x": 613,
+        "y": 233
+      },
+      "movement": {
+        "dx": 32,
+        "dy": 11
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 7.181042909622192,
+      "datetime": "2025-08-04T20:11:55.463283",
+      "position": {
+        "x": 383,
+        "y": 130
+      },
+      "movement": {
+        "dx": 230,
+        "dy": 103
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 7.292622089385986,
+      "datetime": "2025-08-04T20:11:55.574862",
+      "position": {
+        "x": 498,
+        "y": 99
+      },
+      "movement": {
+        "dx": 115,
+        "dy": 31
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 7.396172046661377,
+      "datetime": "2025-08-04T20:11:55.678414",
+      "position": {
+        "x": 474,
+        "y": 98
+      },
+      "movement": {
+        "dx": 24,
+        "dy": 1
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 7.500323057174683,
+      "datetime": "2025-08-04T20:11:55.782564",
+      "position": {
+        "x": 579,
+        "y": 91
+      },
+      "movement": {
+        "dx": 105,
+        "dy": 7
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 7.707437992095947,
+      "datetime": "2025-08-04T20:11:55.989679",
+      "position": {
+        "x": 583,
+        "y": 92
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 7.8125901222229,
+      "datetime": "2025-08-04T20:11:56.094835",
+      "position": {
+        "x": 583,
+        "y": 92
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 8.036108016967773,
+      "datetime": "2025-08-04T20:11:56.318352",
+      "position": {
+        "x": 607,
+        "y": 190
+      },
+      "movement": {
+        "dx": 24,
+        "dy": 92
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 8.153588056564331,
+      "datetime": "2025-08-04T20:11:56.435828",
+      "position": {
+        "x": 682,
+        "y": 489
+      },
+      "movement": {
+        "dx": 75,
+        "dy": 299
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 8.25853419303894,
+      "datetime": "2025-08-04T20:11:56.540775",
+      "position": {
+        "x": 694,
+        "y": 531
+      },
+      "movement": {
+        "dx": 12,
+        "dy": 42
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 8.36360502243042,
+      "datetime": "2025-08-04T20:11:56.645846",
+      "position": {
+        "x": 758,
+        "y": 593
+      },
+      "movement": {
+        "dx": 64,
+        "dy": 62
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 8.466562986373901,
+      "datetime": "2025-08-04T20:11:56.748804",
+      "position": {
+        "x": 822,
+        "y": 603
+      },
+      "movement": {
+        "dx": 64,
+        "dy": 10
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 8.674299955368042,
+      "datetime": "2025-08-04T20:11:56.956541",
+      "position": {
+        "x": 718,
+        "y": 567
+      },
+      "movement": {
+        "dx": 109,
+        "dy": 26
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 8.785481929779053,
+      "datetime": "2025-08-04T20:11:57.067723",
+      "position": {
+        "x": 584,
+        "y": 538
+      },
+      "movement": {
+        "dx": 134,
+        "dy": 29
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 8.894360065460205,
+      "datetime": "2025-08-04T20:11:57.176600",
+      "position": {
+        "x": 521,
+        "y": 482
+      },
+      "movement": {
+        "dx": 63,
+        "dy": 56
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 8.994497060775757,
+      "datetime": "2025-08-04T20:11:57.276739",
+      "position": {
+        "x": 484,
+        "y": 426
+      },
+      "movement": {
+        "dx": 37,
+        "dy": 56
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 9.200431108474731,
+      "datetime": "2025-08-04T20:11:57.482672",
+      "position": {
+        "x": 476,
+        "y": 394
+      },
+      "movement": {
+        "dx": 8,
+        "dy": 32
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 9.304359912872314,
+      "datetime": "2025-08-04T20:11:57.586601",
+      "position": {
+        "x": 469,
+        "y": 353
+      },
+      "movement": {
+        "dx": 7,
+        "dy": 41
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 9.417521238327026,
+      "datetime": "2025-08-04T20:11:57.699762",
+      "position": {
+        "x": 468,
+        "y": 352
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 9.522576093673706,
+      "datetime": "2025-08-04T20:11:57.804817",
+      "position": {
+        "x": 468,
+        "y": 352
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 11.932186126708984,
+      "datetime": "2025-08-04T20:12:00.214428",
+      "position": {
+        "x": 505,
+        "y": 381
+      },
+      "movement": {
+        "dx": 37,
+        "dy": 27
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 12.035558938980103,
+      "datetime": "2025-08-04T20:12:00.317800",
+      "position": {
+        "x": 525,
+        "y": 386
+      },
+      "movement": {
+        "dx": 20,
+        "dy": 5
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 15.688742876052856,
+      "datetime": "2025-08-04T20:12:03.970984",
+      "position": {
+        "x": 605,
+        "y": 402
+      },
+      "movement": {
+        "dx": 76,
+        "dy": 12
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 15.789359092712402,
+      "datetime": "2025-08-04T20:12:04.071601",
+      "position": {
+        "x": 1100,
+        "y": 591
+      },
+      "movement": {
+        "dx": 495,
+        "dy": 189
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 15.890726089477539,
+      "datetime": "2025-08-04T20:12:04.172967",
+      "position": {
+        "x": 1190,
+        "y": 683
+      },
+      "movement": {
+        "dx": 90,
+        "dy": 92
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 15.99580693244934,
+      "datetime": "2025-08-04T20:12:04.278048",
+      "position": {
+        "x": 1251,
+        "y": 757
+      },
+      "movement": {
+        "dx": 61,
+        "dy": 74
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 16.097248077392578,
+      "datetime": "2025-08-04T20:12:04.379489",
+      "position": {
+        "x": 1307,
+        "y": 927
+      },
+      "movement": {
+        "dx": 56,
+        "dy": 170
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 16.200629949569702,
+      "datetime": "2025-08-04T20:12:04.482872",
+      "position": {
+        "x": 1323,
+        "y": 970
+      },
+      "movement": {
+        "dx": 16,
+        "dy": 43
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 16.305693864822388,
+      "datetime": "2025-08-04T20:12:04.587935",
+      "position": {
+        "x": 1362,
+        "y": 1044
+      },
+      "movement": {
+        "dx": 39,
+        "dy": 74
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 16.416200876235962,
+      "datetime": "2025-08-04T20:12:04.698442",
+      "position": {
+        "x": 1378,
+        "y": 1079
+      },
+      "movement": {
+        "dx": 16,
+        "dy": 35
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 16.521332025527954,
+      "datetime": "2025-08-04T20:12:04.803573",
+      "position": {
+        "x": 1383,
+        "y": 1105
+      },
+      "movement": {
+        "dx": 5,
+        "dy": 26
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 16.625021934509277,
+      "datetime": "2025-08-04T20:12:04.907264",
+      "position": {
+        "x": 1380,
+        "y": 1118
+      },
+      "movement": {
+        "dx": 3,
+        "dy": 13
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 17.048264026641846,
+      "datetime": "2025-08-04T20:12:05.330505",
+      "position": {
+        "x": 1359,
+        "y": 1130
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 17.152687072753906,
+      "datetime": "2025-08-04T20:12:05.434927",
+      "position": {
+        "x": 1359,
+        "y": 1129
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 17.463130235671997,
+      "datetime": "2025-08-04T20:12:05.745371",
+      "position": {
+        "x": 1359,
+        "y": 1105
+      },
+      "movement": {
+        "dx": 0,
+        "dy": 21
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 17.56422185897827,
+      "datetime": "2025-08-04T20:12:05.846463",
+      "position": {
+        "x": 1291,
+        "y": 938
+      },
+      "movement": {
+        "dx": 68,
+        "dy": 167
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 17.677157163619995,
+      "datetime": "2025-08-04T20:12:05.959398",
+      "position": {
+        "x": 1098,
+        "y": 748
+      },
+      "movement": {
+        "dx": 193,
+        "dy": 190
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 17.779235124588013,
+      "datetime": "2025-08-04T20:12:06.061479",
+      "position": {
+        "x": 1049,
+        "y": 643
+      },
+      "movement": {
+        "dx": 49,
+        "dy": 105
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 17.88990306854248,
+      "datetime": "2025-08-04T20:12:06.172146",
+      "position": {
+        "x": 955,
+        "y": 591
+      },
+      "movement": {
+        "dx": 94,
+        "dy": 52
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 17.994966983795166,
+      "datetime": "2025-08-04T20:12:06.277208",
+      "position": {
+        "x": 903,
+        "y": 530
+      },
+      "movement": {
+        "dx": 52,
+        "dy": 61
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 18.099467039108276,
+      "datetime": "2025-08-04T20:12:06.381707",
+      "position": {
+        "x": 889,
+        "y": 500
+      },
+      "movement": {
+        "dx": 14,
+        "dy": 30
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 18.20454716682434,
+      "datetime": "2025-08-04T20:12:06.486788",
+      "position": {
+        "x": 866,
+        "y": 478
+      },
+      "movement": {
+        "dx": 23,
+        "dy": 22
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 18.41920804977417,
+      "datetime": "2025-08-04T20:12:06.701448",
+      "position": {
+        "x": 866,
+        "y": 478
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 18.524263858795166,
+      "datetime": "2025-08-04T20:12:06.806504",
+      "position": {
+        "x": 867,
+        "y": 436
+      },
+      "movement": {
+        "dx": 1,
+        "dy": 42
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 18.62917399406433,
+      "datetime": "2025-08-04T20:12:06.911415",
+      "position": {
+        "x": 862,
+        "y": 313
+      },
+      "movement": {
+        "dx": 5,
+        "dy": 123
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 18.730462074279785,
+      "datetime": "2025-08-04T20:12:07.012704",
+      "position": {
+        "x": 868,
+        "y": 292
+      },
+      "movement": {
+        "dx": 6,
+        "dy": 21
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 18.936585903167725,
+      "datetime": "2025-08-04T20:12:07.218827",
+      "position": {
+        "x": 950,
+        "y": 331
+      },
+      "movement": {
+        "dx": 82,
+        "dy": 40
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 18.93660306930542,
+      "datetime": "2025-08-04T20:12:07.218842",
+      "position": {
+        "x": 950,
+        "y": 331
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 19.037750005722046,
+      "datetime": "2025-08-04T20:12:07.319991",
+      "position": {
+        "x": 1212,
+        "y": 718
+      },
+      "movement": {
+        "dx": 262,
+        "dy": 387
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 19.139649152755737,
+      "datetime": "2025-08-04T20:12:07.421890",
+      "position": {
+        "x": 1090,
+        "y": 833
+      },
+      "movement": {
+        "dx": 122,
+        "dy": 115
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 19.243417024612427,
+      "datetime": "2025-08-04T20:12:07.525657",
+      "position": {
+        "x": 1012,
+        "y": 867
+      },
+      "movement": {
+        "dx": 78,
+        "dy": 34
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 19.450545072555542,
+      "datetime": "2025-08-04T20:12:07.732785",
+      "position": {
+        "x": 1037,
+        "y": 890
+      },
+      "movement": {
+        "dx": 25,
+        "dy": 21
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 19.6561279296875,
+      "datetime": "2025-08-04T20:12:07.938370",
+      "position": {
+        "x": 998,
+        "y": 901
+      },
+      "movement": {
+        "dx": 30,
+        "dy": 5
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 19.758344888687134,
+      "datetime": "2025-08-04T20:12:08.040587",
+      "position": {
+        "x": 899,
+        "y": 919
+      },
+      "movement": {
+        "dx": 99,
+        "dy": 18
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_move",
+      "timestamp": 19.858741998672485,
+      "datetime": "2025-08-04T20:12:08.140988",
+      "position": {
+        "x": 882,
+        "y": 917
+      },
+      "movement": {
+        "dx": 17,
+        "dy": 2
+      },
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_press",
+      "timestamp": 20.37730312347412,
+      "datetime": "2025-08-04T20:12:08.659544",
+      "position": {
+        "x": 867,
+        "y": 904
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    },
+    {
+      "type": "mouse_release",
+      "timestamp": 20.48160409927368,
+      "datetime": "2025-08-04T20:12:08.763846",
+      "position": {
+        "x": 867,
+        "y": 904
+      },
+      "button": "left",
+      "source": "multiscreen_enhanced"
+    }
+  ],
+  "keyboard_events": [
+    {
+      "datetime": "2025-08-04T20:11:54.850737",
+      "source": "enhanced_keyboard_logger",
+      "type": "app_switch",
+      "from_app": "Python",
+      "to_app": "Cursor",
+      "timestamp": 1754331114.850729,
+      "inferred_shortcut": "Cmd+Tab or mouse click"
+    },
+    {
+      "datetime": "2025-08-04T20:11:58.101213",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 2,
+      "key_name": "d",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331118.101133,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:58.101395",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 3,
+      "key_name": "f",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331118.101387,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:58.211745",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 2,
+      "key_name": "d",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331118.2116969,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:58.375580",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 3,
+      "key_name": "f",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331118.375555,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:58.382525",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 2,
+      "key_name": "d",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331118.382506,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:58.501830",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 1,
+      "key_name": "s",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331118.501805,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:58.646757",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 3,
+      "key_name": "f",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331118.6467378,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:58.694568",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 2,
+      "key_name": "d",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331118.69453,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:58.726833",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 1,
+      "key_name": "s",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331118.726806,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:58.842830",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 3,
+      "key_name": "f",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331118.842804,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:59.058480",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 49,
+      "key_name": "Space",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": true,
+      "timestamp": 1754331119.058451,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:59.357064",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 2,
+      "key_name": "d",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331119.357035,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:59.371175",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 3,
+      "key_name": "f",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331119.371136,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:59.501038",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 3,
+      "key_name": "f",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331119.501014,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:59.501366",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 5,
+      "key_name": "g",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331119.501355,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:59.630533",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 2,
+      "key_name": "d",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331119.63051,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:59.695297",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 3,
+      "key_name": "f",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331119.695273,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:59.717218",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 5,
+      "key_name": "g",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331119.717197,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:59.818994",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 2,
+      "key_name": "d",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331119.8189702,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:59.832542",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 3,
+      "key_name": "f",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331119.832522,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:59.842723",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 5,
+      "key_name": "g",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331119.842698,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:11:59.973853",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 5,
+      "key_name": "g",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331119.9738219,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:00.018219",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 3,
+      "key_name": "f",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331120.0181959,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:00.102158",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 2,
+      "key_name": "d",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331120.1021361,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:00.164979",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 3,
+      "key_name": "f",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331120.16496,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:00.165443",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 5,
+      "key_name": "g",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331120.165432,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:00.366542",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 49,
+      "key_name": "Space",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": true,
+      "timestamp": 1754331120.366518,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:00.834501",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 36,
+      "key_name": "Return",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": true,
+      "timestamp": 1754331120.834479,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:00.899227",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_release",
+      "key_code": 36,
+      "key_name": "Return",
+      "modifiers": [],
+      "timestamp": 1754331120.899204,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:00.986581",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 36,
+      "key_name": "Return",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": true,
+      "timestamp": 1754331120.986561,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:01.107503",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_release",
+      "key_code": 36,
+      "key_name": "Return",
+      "modifiers": [],
+      "timestamp": 1754331121.1074839,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:01.191412",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 36,
+      "key_name": "Return",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": true,
+      "timestamp": 1754331121.1913931,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:01.308908",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_release",
+      "key_code": 36,
+      "key_name": "Return",
+      "modifiers": [],
+      "timestamp": 1754331121.3088799,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:01.429550",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 14,
+      "key_name": "e",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331121.429527,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:01.456684",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 2,
+      "key_name": "d",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331121.456647,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:01.484630",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 5,
+      "key_name": "g",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331121.4846132,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:01.664549",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 2,
+      "key_name": "d",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331121.664528,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:01.678471",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 3,
+      "key_name": "f",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331121.678438,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:01.875291",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 5,
+      "key_name": "g",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331121.8752651,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:02.038517",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 5,
+      "key_name": "g",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331122.038493,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:02.191921",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 5,
+      "key_name": "g",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331122.191839,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:02.354871",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 2,
+      "key_name": "d",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331122.354846,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:02.369214",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 3,
+      "key_name": "f",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331122.369192,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:02.534992",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 5,
+      "key_name": "g",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331122.53497,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:02.676147",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 2,
+      "key_name": "d",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331122.6761138,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:02.704586",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 3,
+      "key_name": "f",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331122.7045639,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:02.878542",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 5,
+      "key_name": "g",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": false,
+      "timestamp": 1754331122.8785229,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:03.133353",
+      "source": "enhanced_keyboard_logger",
+      "type": "key_press",
+      "key_code": 49,
+      "key_name": "Space",
+      "modifiers": [],
+      "is_character": true,
+      "is_special": true,
+      "timestamp": 1754331123.133334,
+      "capture_method": "core_graphics"
+    },
+    {
+      "datetime": "2025-08-04T20:12:05.465407",
+      "source": "enhanced_keyboard_logger",
+      "type": "app_switch",
+      "from_app": "Cursor",
+      "to_app": "Python",
+      "timestamp": 1754331125.4654021,
+      "inferred_shortcut": "Cmd+Tab or mouse click"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+# Core dependencies for Safe RPA Recorder
+opencv-python>=4.5.0
+numpy>=1.20.0
+mss>=6.0.0
+pillow>=8.0.0
+
+# Audio recording (optional)
+pyaudio>=0.2.11
+
+# Cross-platform mouse/keyboard automation
+pyautogui>=0.9.52
+
+# Enhanced input monitoring for keystroke logging
+pynput>=1.7.6
+
+# Google Generative AI (Gemini) integration
+google-generativeai>=0.3.0
+python-dotenv>=0.19.0
+requests>=2.25.0
+
+# macOS-specific dependencies (for macOS users only)
+pyobjc-framework-Cocoa>=8.0; sys_platform == "darwin"
+pyobjc-framework-ApplicationServices>=8.0; sys_platform == "darwin"
+pyobjc-core>=8.0; sys_platform == "darwin"
+
+# GUI toolkit (usually included with Python, but sometimes needs separate installation)
+# tkinter - typically comes with Python installation

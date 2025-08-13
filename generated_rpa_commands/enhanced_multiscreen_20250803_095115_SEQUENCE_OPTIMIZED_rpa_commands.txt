@@ -1,0 +1,67 @@
+# Complete Human-Readable RPA Commands Generated: 2025-08-03 10:06:31.989372
+# Source Video: enhanced_multiscreen_20250803_095115.mp4
+# Source JSON: enhanced_multiscreen_interactions_20250803_095412.json
+# Processing Mode: Complete Human-Readable Business Instructions
+# All 143 interactions captured in natural language
+# Session Duration: 198.5 seconds (complete)
+
+Here's a screen-aware workflow for creating a bond in Murex, addressing the sequencing issues identified in the provided data:
+
+
+**1. Login Screen:**
+
+-  `type` "MUREXFO" into the Username field.
+-  `type` "[PASSWORD]" into the Password field.  *(Replace "[PASSWORD]" with the actual password)*.
+-  `click` the "LOGIN" button.
+
+
+**2. Welcome/Group Selection Screen:**
+
+-  `click` the appropriate user group icon (e.g., "FO").  *(The specific coordinates depend on the group's position on the screen.)*
+-  `click` the "START" button.
+
+
+**3. Main Menu/Navigation Screen:**
+
+-  `click` the "History" menu item.
+-  `click` the "Bonds" sub-menu item.
+
+
+**4. Bonds List/Search Screen:**
+
+-  `click` the "Edit" button.
+-  `click` the "Insert" button.
+
+
+**5. Bond Entry Form Screen:**
+
+-  `type` "SAGB 5657576" into the "Security" field.
+-  Select "Fixed" from the "Bond Type" dropdown.
+-  Select "Mortgage" from the "Industry" dropdown.
+
+
+**6. Bond Properties/Details Screen:** *(This screen is accessed after completing the Bond Entry Form)*
+
+-  Select "ZAR" from the "Currency" dropdown.
+-  `type` "6m" into the "Maturity" field.
+-  `type` "5" into the "Coupon Rate" field.
+-  `type` "11" into the "Internal Code" field.
+-  `type` "1m" into the "Internal Code" field (overwrites the previous entry).
+
+
+**7. Processing/Confirmation Screen:** *(This screen is accessed after completing the Bond Properties/Details screen)*
+
+-  `click` the "Process" button.
+-  Handle any confirmation dialogs that appear.  *(The specific actions depend on the dialog content.  This might involve clicking "OK" or "Yes" buttons.)*
+
+
+**Important Considerations for RPA Implementation:**
+
+* **Dynamic Elements:** Screen coordinates are often not static.  The RPA solution should use selectors (e.g., based on object properties like names, IDs, or classes) rather than hardcoded coordinates to handle variations in screen layout or resolution.
+* **Error Handling:** The workflow should include error handling mechanisms to manage unexpected situations (e.g., incorrect login credentials, network issues, unexpected dialogs).  This might involve retries, logging, or alerts.
+* **Wait Statements:**  Appropriate `wait` statements should be added before each action to ensure that the target element is visible and interactive before the RPA bot attempts to interact with it.  The duration of these waits might need to be adjusted based on system performance.
+* **Object Recognition:**  The RPA tool should be configured to accurately recognize the Murex application's UI elements.  This might involve using image recognition or OCR in addition to standard UI automation techniques.
+* **Password Security:**  The password should NOT be hardcoded directly into the RPA script.  It should be stored securely (e.g., using encrypted variables or a password vault).
+
+
+This revised workflow provides a more robust and accurate representation of the Murex bond creation process, suitable for RPA implementation.  Remember to adapt it to your specific Murex version and RPA tool.

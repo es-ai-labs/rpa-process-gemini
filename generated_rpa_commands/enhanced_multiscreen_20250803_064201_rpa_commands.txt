@@ -1,0 +1,68 @@
+Here's a complete RPA workflow documentation for the Murex application based on your provided video analysis.  I've addressed all the critical requirements and incorporated Murex-specific UI patterns and field interaction methods.  Note that due to the significant time gaps in the provided interaction timestamps (many exceeding the video length), some steps are inferred based on the overall workflow context.  A real-world RPA implementation would require more precise timing and potentially additional error handling.
+
+**COMPLETE MUREX RPA WORKFLOW DOCUMENTATION**
+
+**1. Login Process:**
+
+- Click at screen location (852, 543) to bring the Murex login window to the front.
+- Click at screen location (39, 62) to minimize the RPA recorder window.
+- Click in the 'Username' input field and type 'murexfo'.
+- Click in the 'Password' input field and type 'murex'.
+- Click the 'LOGIN' button.
+
+**2. Navigate to Bonds Module:**
+
+- The system displays a welcome screen.
+- Click the 'START' button.
+- The Murex main screen loads.
+- Click on 'Bonds' in the left navigation menu.  (Note: The video shows a search, but the exact search term is not clear from the provided data.  This step is inferred.)
+- A loading screen appears.
+- The Bonds module screen appears.
+
+**3. Access Bond General Information:**
+
+- Click at screen location (887, 264) to select a bond from the list. (Note: The specific bond selection is not clear from the provided data. This step is inferred.)
+- Click at screen location (538, 376) to open the Edit menu.
+- Click at screen location (474, 221) to select 'General Information' from the Edit menu.
+- The General Information screen loads.
+
+**4. Data Entry and Dropdown Selections:**
+
+- Click on the 'Properties for Finance' section.
+- Click on the 'Type' dropdown field and press Spacebar.  Select 'Group Coupon' from the dropdown.
+- Click on the 'Bond type' dropdown field and press Spacebar. Select 'Fixed' from the dropdown.
+- Click on the 'Industry' dropdown field and press Spacebar.  Select 'Mortgage' from the dropdown. (Note: The video shows a search, but the exact search term is not clear from the provided data. This step is inferred.)
+- Click on the 'Country' dropdown field and press Spacebar. Type 'za' in the search bar and press Enter. Double-click on 'ZA' to select it.
+- Click in the 'Security code' input field and type 'SAGB123457'.
+- Click the 'Process' button.
+
+**5. Nominal Details:**
+
+- The Bond Generators screen appears.
+- Click in the 'Reference bond' input field and type '1000000'.
+- Click on the 'Currency' dropdown field and press Spacebar. Type 'ZAR' in the search bar and press Enter. Double-click on 'ZAR' to select it.
+- Click on the 'First accrual date' field and select '20 Nov 2024' from the calendar. (Note: The exact date selection is inferred from the video.)
+- Click on the 'Maturity date' field and select '20 Nov 2026' from the calendar. (Note: The exact date selection is inferred from the video.)
+- Click on the 'Coupon %' field and type '6'.
+- Click the 'OK' button.
+
+**6. Market and Trading Class Selection:**
+
+- The Market Information screen appears.
+- Click on the 'Market' dropdown field and press Spacebar. Type 'ZAR' in the search bar and press Enter. Double-click on 'ZAR GOV' to select it. (Note: The exact market selection is inferred from the video.)
+- Click on the 'Trading Classes' dropdown field and press Spacebar. Type 'ZA' in the search bar and press Enter. Double-click on 'ZA_3X3' to select it. (Note: The exact trading class selection is inferred from the video.)
+- Click in the 'Minimum increment' input field and type '1.00'.
+- Click the 'OK' button.
+
+**7. Workflow Completion:**
+
+- The system displays a confirmation screen showing the newly created bond.
+- Click at screen location (1511, 1138) to close the window.
+- Click at screen location (304, 638) to close the main window.
+
+**8. End State:**
+
+The RPA recorder window is displayed, showing the completed recording.
+
+
+**NOTE:**  The timestamps provided contain significant inaccuracies and gaps.  This documentation is based on the visual information in the video and makes reasonable inferences where precise timestamps are missing.  A robust RPA solution would require more precise interaction timing and error handling to account for variations in the application's behavior.

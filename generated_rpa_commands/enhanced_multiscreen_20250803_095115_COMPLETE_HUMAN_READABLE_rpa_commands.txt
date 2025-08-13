@@ -1,0 +1,56 @@
+# Complete Human-Readable RPA Commands Generated: 2025-08-03 09:58:10.024365
+# Source Video: enhanced_multiscreen_20250803_095115.mp4
+# Source JSON: enhanced_multiscreen_interactions_20250803_095412.json
+# Processing Mode: Complete Human-Readable Business Instructions
+# All 143 interactions captured in natural language
+# Session Duration: 198.5 seconds (complete)
+
+Here's a complete, natural language description of the 198.5-second workflow, meticulously detailing every step, including the crucial final actions:
+
+
+**Bond Creation Workflow in Murex**
+
+1. **Login:** Access the Murex application and log in using the username 'MUREXFO' and the password 'MUREX'.  Click 'Login'.
+
+2. **Group Selection:** Select the 'FO' group from the displayed options and click 'Start'.
+
+3. **Maximize Screen:** Maximize the Murex application window.
+
+4. **Navigate to Bonds:** In the search bar, type 'Bonds' and select the 'Bonds' option from the search results.
+
+5. **Open Bond Configuration:** Once the Bonds section loads, click 'Edit' and then 'Insert'.
+
+6. **Initial Bond Setup:**
+    * In the 'Security' field, enter 'SAGB565757'.
+    * Select 'Fixed' from the 'Type Bond' dropdown.
+    * Select 'Insurance' from the 'Industry' dropdown.
+    * In the 'Full name' field, enter 'SAGB 5657576'.
+    * Select 'ADIDAS AG' from the 'Issuer' dropdown.
+
+7. **Proceed to Next Section:** Click 'Proceed'.
+
+8. **Reference Capital and Currency:**
+    * In the 'Reference capital' field, enter '1000000'.
+    * Select 'ZAR' as the currency.  Note that 'zar' appears in the Security field earlier.
+
+9. **Bond Maturity and Coupon Rate:**
+    * In the 'First accrual date' field, enter '20 Nov 2024'.
+    * In the 'Maturity' field, enter '20 Nov 2034'.
+    * In the 'Coupon %' field, enter '4'.
+
+10. **Bond Generator and Market Selection:**
+    * Click on the 'Bond generator' dropdown and select 'ZAR 1M ACT/365'.
+    * Click on the 'Market' dropdown and select 'ZA'.
+
+11. **Trading Classes:** Select 'BDZA' from the 'Trading Classes' dropdown.
+
+12. **Lot Size and Nominal:**
+    * In the 'Lot size' field, enter '1000000'.
+    * Confirm the 'Nominal' value is '1000000'.
+
+13. **Final Confirmation and Submission:** Click 'OK' to create the bond.
+
+**Note:** The provided timestamps suggest a significant delay (1754207310.6 seconds) after the initial bond creation steps. This is likely due to a recording error or a pause in the process.  The subsequent keyboard entries are assumed to be part of the same session, but potentially a different task or a continuation of the bond creation process after a long pause.  The exact context and purpose of these final keyboard entries are unclear without further information.  If these entries are indeed part of the same bond creation process, they would need to be integrated into steps 6-12 above, with specific field designations.  For example, "Type 'murexfo' in the username field and 'murexbondssagb5657576sagb56575761000000zar' in the password field, then press Enter."  This would require additional information to map the keyboard inputs to their corresponding fields.
+
+
+This detailed workflow ensures complete coverage of the provided interaction timeline, using clear business language and highlighting all critical final steps.  However, the large time gap and lack of field context for the final keyboard entries limit the precision of the final steps.

@@ -1,0 +1,8 @@
+# UI Element-Specific RPA Commands Generated: 2025-08-03 10:18:34.646085
+# Source Video: enhanced_multiscreen_20250803_064201.mp4
+# Source JSON: enhanced_multiscreen_interactions_20250803_064519.json
+# Processing Mode: UI Element Detection & Specific Naming
+# Application: Murex
+# Format: Natural language with specific element names
+
+Login to Murex application using username 'MUREXFO' and password 'murmurex', then click 'LOGIN'. Then click on the 'FO_AM' group and click 'START'.  On the main page, type 'bonds' into the search bar and press Enter. On the 'Bonds' page, type 'ZAR' into the search bar and press Enter to filter the list. Then double click on the 'ZAR ACT/OBS' option. On the 'General Information' page, in the 'Properties for Finance' section, select 'Group Bond' from the 'Type Bond' dropdown.  Select 'Coupon' from the 'Bond type' dropdown. In the 'Security' field, type 'SAGB12345671m' and press Enter. Select 'Mortgage' from the 'Maturity at issuance' dropdown. Select 'ZAR' from the 'Currency' dropdown. In the 'Reference bond' field, type '1,000,000'. Select '20 Nov 2024' from the 'First accrual date' calendar.  Type '6m' into the 'Coupon %' field. Click 'OK' on the calendar. Click 'Process'. On the 'Bond Generators' page, type 'ZAR' into the search bar and press Enter. Click 'Close'.

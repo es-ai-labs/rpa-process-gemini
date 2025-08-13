@@ -1,0 +1,105 @@
+
+flowchart TB
+ subgraph subGraph0["Raw Instruction Template Engine"]
+        WCT["Workflow Capture Tool"]
+        A["Video + Audio Recording"]
+        B["UI Interaction Logs<br>JSON Format"]
+        C["Screen Captureddds"]
+        D["Java UI Screen<br>Murex Interface Dumps"]
+        AI["Google Gemini<br>AI Synthesizer"]
+        RIT["Raw Instruction<br>Template"]
+  end
+ subgraph subGraph1["Human-in-the-Loop Enhancement"]
+        HIL["Human-in-the-Loop<br>Enhancement"]
+        ERI["Executable Raw<br>Instruction"]
+  end
+ subgraph subGraph2["Parameterization Engine"]
+        PAR["Parametrization<br>Engine"]
+        PI["Parameterized<br>Interactions for AI"]
+  end
+ subgraph subGraph3["Workflow Database"]
+        WDB[("Workflow Database<br>Thousands of Templates")]
+        WS["Workflow Search<br>&amp; Selection"]
+  end
+ subgraph subGraph4["Intelligent Agent Core"]
+        NLU["Natural Language<br>Understanding"]
+        UI["User Input<br>Natural Language"]
+        IC["Intent Classification<br>&amp; Capability Matching"]
+        PP["Parameter Prompt<br>Generator"]
+        PV["Parameter<br>Validation"]
+        EWF["Executable Workflow<br>with Parameters"]
+  end
+ subgraph subGraph5["RPA Execution Engine"]
+        RPE["RPA Parser<br>&amp; Executor"]
+        ME["Murex Interface<br>Automation"]
+        MUR["Murex System"]
+  end
+ subgraph subGraph6["Monitoring & Feedback"]
+        EL["Execution Logs"]
+        FB["Feedback Loop"]
+        SS["Screen State<br>Monitoring"]
+        DBG["Debug Mode<br>Interface"]
+  end
+ subgraph subGraph7["Operating Modes"]
+        CM["Configuration Copy Mode"]
+        AM["Assistant Mode"]
+        DM["Debug Mode"]
+  end
+    A --> WCT
+    B --> WCT
+    C --> WCT
+    D --> WCT
+    WCT --> AI
+    AI --> RIT
+    RIT --> HIL
+    HIL --> ERI
+    ERI --> PAR
+    PAR --> PI
+    PI --> WDB
+    WDB --> WS
+    UI --> NLU
+    NLU --> WS
+    WS --> IC
+    IC --> PP & CM & AM & DM
+    PP --> PV
+    PV --> EWF
+    EWF --> RPE
+    RPE --> ME & EL
+    ME --> MUR & SS
+    EL --> FB
+    FB --> HIL
+    SS --> DBG
+    DBG --> DM
+     A:::template
+     WCT:::template
+     B:::template
+     C:::template
+     D:::template
+     AI:::template
+     RIT:::template
+     HIL:::enhancement
+     ERI:::enhancement
+     PAR:::parameterization
+     PI:::parameterization
+     WDB:::storage
+     WS:::storage
+     UI:::agent
+     NLU:::agent
+     IC:::agent
+     PP:::agent
+     PV:::agent
+     EWF:::agent
+     RPE:::execution
+     ME:::execution
+     MUR:::execution
+     EL:::feedback
+     FB:::feedback
+     SS:::feedback
+     DBG:::feedback
+    classDef template fill:#1e3a8a,stroke:#1e40af,stroke-width:3px,color:#ffffff
+    classDef enhancement fill:#7c3aed,stroke:#8b5cf6,stroke-width:3px,color:#ffffff
+    classDef parameterization fill:#059669,stroke:#10b981,stroke-width:3px,color:#ffffff
+    classDef storage fill:#059669,stroke:#10b981,stroke-width:3px,color:#ffffff
+    classDef agent fill:#dc2626,stroke:#ef4444,stroke-width:3px,color:#ffffff
+    classDef execution fill:#ea580c,stroke:#f97316,stroke-width:3px,color:#ffffff
+    classDef feedback fill:#0891b2,stroke:#06b6d4,stroke-width:3px,color:#ffffff
